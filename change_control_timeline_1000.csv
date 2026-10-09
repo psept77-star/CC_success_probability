@@ -1,0 +1,1001 @@
+Change_ID,Change_Description,Department,Change_related_to,Severity,Linked_Deviations_Count,Linked_CAPA_Effectiveness,change_initiation_date,change_implementation_date,change_close_date
+CR-2025-0001,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Minor,1,Low,21-05-2025,15-06-2025,19-07-2025
+CR-2025-0002,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Assurance,Standard Operating Procedures,Major,0,High,13-12-2025,08-02-2026,15-02-2026
+CR-2025-0003,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Regulatory Affairs,HVAC & Utilities,Minor,0,Medium,16-01-2025,31-01-2025,11-02-2025
+CR-2025-0004,Replacement of label application vacuum pads on high speed vial labelers.,Quality Assurance,Packaging Lines,Major,3,High,14-01-2025,28-02-2025,01-04-2025
+CR-2025-0005,Standardization of analytical instrument calibration intervals and criteria.,Information Technology,Standard Operating Procedures,Major,0,High,03-08-2025,27-08-2025,15-09-2025
+CR-2025-0006,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Regulatory Affairs,Analytical Methods,Minor,0,High,23-03-2025,16-05-2025,03-06-2025
+CR-2025-0007,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Minor,0,High,21-04-2025,18-06-2025,03-07-2025
+CR-2025-0008,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Production,Manufacturing Equipment,Minor,0,High,19-02-2025,23-03-2025,08-04-2025
+CR-2025-0009,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Regulatory Affairs,Analytical Methods,Minor,0,Medium,24-08-2025,07-10-2025,15-10-2025
+CR-2025-0010,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,31-05-2025,20-07-2025,05-08-2025
+CR-2025-0011,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Major,0,High,24-01-2025,17-03-2025,29-03-2025
+CR-2025-0012,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Supply Chain,Analytical Methods,Critical,3,Low,30-04-2025,11-06-2025,25-07-2025
+CR-2025-0013,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Minor,0,High,25-03-2025,27-04-2025,13-05-2025
+CR-2025-0014,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,0,High,26-12-2025,17-02-2026,24-02-2026
+CR-2025-0015,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Minor,1,Low,01-10-2025,26-11-2025,31-12-2025
+CR-2025-0016,Upgrade of the secondary compressor system on the purified water chiller.,Quality Assurance,HVAC & Utilities,Major,1,High,19-05-2025,08-07-2025,01-09-2025
+CR-2025-0017,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,1,High,29-01-2025,22-02-2025,16-03-2025
+CR-2025-0018,Implementation of a dual-wavelength spectrophotometric verification assay.,Supply Chain,Analytical Methods,Major,2,Low,18-05-2025,01-06-2025,04-07-2025
+CR-2025-0019,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Major,1,Low,19-04-2025,09-06-2025,30-07-2025
+CR-2025-0020,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,High,15-03-2025,10-04-2025,19-04-2025
+CR-2025-0021,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Minor,0,High,03-10-2025,29-10-2025,16-11-2025
+CR-2025-0022,Installation of online total organic carbon analyzer on the WFI loop pump.,Regulatory Affairs,HVAC & Utilities,Minor,0,High,23-04-2025,11-05-2025,31-05-2025
+CR-2025-0023,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Production,Facilities,Minor,0,Medium,26-02-2025,17-03-2025,27-03-2025
+CR-2025-0024,Comprehensive overhaul of cleaning verification sampling procedure plans.,Supply Chain,Standard Operating Procedures,Critical,0,Medium,02-11-2025,10-12-2025,27-12-2025
+CR-2025-0025,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Minor,0,Medium,28-09-2025,24-10-2025,29-10-2025
+CR-2025-0026,Revision of SOP-QA-045 to implement stricter line clearance validations.,Information Technology,Standard Operating Procedures,Major,0,Medium,16-12-2025,29-01-2026,11-02-2026
+CR-2025-0027,Harmonization of environment monitoring step protocols across regional sites.,Supply Chain,Standard Operating Procedures,Minor,1,High,27-02-2025,27-03-2025,13-05-2025
+CR-2025-0028,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Assurance,HVAC & Utilities,Major,0,High,15-05-2025,26-06-2025,06-07-2025
+CR-2025-0029,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,24-11-2025,05-01-2026,16-01-2026
+CR-2025-0030,Validation of a new rapid microbiological method for water testing loop A.,Quality Assurance,Analytical Methods,Major,0,Medium,04-10-2025,02-12-2025,07-12-2025
+CR-2025-0031,Implementation of a dual-wavelength spectrophotometric verification assay.,Regulatory Affairs,Analytical Methods,Minor,0,Medium,10-01-2025,27-01-2025,12-02-2025
+CR-2025-0032,Refurbishment of wall panels and ceiling joints within wash bay area.,Supply Chain,Facilities,Major,0,Medium,03-05-2025,16-05-2025,28-05-2025
+CR-2025-0033,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,06-09-2025,20-09-2025,29-09-2025
+CR-2025-0034,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Minor,0,High,09-10-2025,29-10-2025,11-11-2025
+CR-2025-0035,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Regulatory Affairs,Facilities,Minor,1,High,05-08-2025,28-08-2025,21-10-2025
+CR-2025-0036,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Minor,0,High,01-01-2026,30-01-2026,16-02-2026
+CR-2025-0037,Harmonization of environment monitoring step protocols across regional sites.,Information Technology,Standard Operating Procedures,Minor,0,High,13-08-2025,25-09-2025,14-10-2025
+CR-2025-0038,Integration of secondary barcode validation architecture into the MES platform.,Production,IT & Automation Systems,Minor,1,Low,02-02-2025,05-03-2025,26-03-2025
+CR-2025-0039,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Major,1,Medium,29-10-2025,22-11-2025,12-12-2025
+CR-2025-0040,Revision of SOP-QA-045 to implement stricter line clearance validations.,Production,Standard Operating Procedures,Minor,0,Medium,28-04-2025,12-05-2025,18-05-2025
+CR-2025-0041,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Supply Chain,Analytical Methods,Major,0,Medium,21-09-2025,16-10-2025,29-10-2025
+CR-2025-0042,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Minor,0,High,04-10-2025,22-10-2025,11-11-2025
+CR-2025-0043,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Major,0,Medium,28-07-2025,19-08-2025,27-08-2025
+CR-2025-0044,Comprehensive overhaul of cleaning verification sampling procedure plans.,Production,Standard Operating Procedures,Minor,0,High,01-07-2025,07-08-2025,25-08-2025
+CR-2025-0045,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Engineering & Maintenance,Facilities,Minor,1,High,11-12-2025,31-01-2026,26-02-2026
+CR-2025-0046,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Minor,0,High,25-02-2025,22-03-2025,02-04-2025
+CR-2025-0047,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Quality Assurance,Packaging Lines,Minor,2,Low,13-03-2025,19-04-2025,20-05-2025
+CR-2025-0048,Modification of airflow return duct patterns in the granulation cleanroom.,Quality Control,HVAC & Utilities,Minor,0,High,08-02-2025,18-03-2025,26-03-2025
+CR-2025-0049,Standardization of analytical instrument calibration intervals and criteria.,Production,Standard Operating Procedures,Minor,0,High,08-01-2025,23-01-2025,04-02-2025
+CR-2025-0050,Upgrade of the secondary compressor system on the purified water chiller.,Quality Assurance,HVAC & Utilities,Minor,0,High,04-09-2025,27-09-2025,14-10-2025
+CR-2025-0051,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Critical,0,High,02-01-2025,22-03-2025,04-04-2025
+CR-2025-0052,Relocation of the incoming raw material inspection staging barrier.,Supply Chain,Facilities,Minor,1,Low,27-05-2025,03-07-2025,27-08-2025
+CR-2025-0053,Comprehensive overhaul of cleaning verification sampling procedure plans.,Information Technology,Standard Operating Procedures,Major,0,Medium,21-03-2025,12-04-2025,26-04-2025
+CR-2025-0054,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Assurance,Manufacturing Equipment,Major,1,High,05-10-2025,18-10-2025,27-11-2025
+CR-2025-0055,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Production,Manufacturing Equipment,Major,0,High,02-09-2025,14-10-2025,24-10-2025
+CR-2025-0056,Modification of blister forming forming-die plate to support 10-count layouts.,Production,Packaging Lines,Major,0,High,06-04-2025,20-04-2025,27-04-2025
+CR-2025-0057,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Minor,0,High,26-07-2025,12-08-2025,24-08-2025
+CR-2025-0058,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,0,High,14-11-2025,29-11-2025,17-12-2025
+CR-2025-0059,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Major,1,High,25-09-2025,25-10-2025,30-11-2025
+CR-2025-0060,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,1,Low,03-05-2025,29-05-2025,13-07-2025
+CR-2025-0061,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,1,High,23-08-2025,22-09-2025,16-10-2025
+CR-2025-0062,Rebalancing of differential pressures across cleanroom corridors zone B.,Production,HVAC & Utilities,Major,1,High,16-10-2025,01-11-2025,25-11-2025
+CR-2025-0063,Update of user access roles and active directory profiles in Laboratory LIMS.,Regulatory Affairs,IT & Automation Systems,Major,1,High,16-05-2025,03-06-2025,15-07-2025
+CR-2025-0064,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Minor,1,High,26-05-2025,15-06-2025,02-08-2025
+CR-2025-0065,Upgrade of serialization printers on bottle capping line 2 setup.,Supply Chain,Packaging Lines,Critical,1,Medium,10-11-2025,03-03-2026,25-04-2026
+CR-2025-0066,Standardization of analytical instrument calibration intervals and criteria.,Production,Standard Operating Procedures,Minor,1,Medium,03-06-2025,25-07-2025,20-08-2025
+CR-2025-0067,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Assurance,Analytical Methods,Major,1,Medium,24-02-2025,22-04-2025,16-06-2025
+CR-2025-0068,Re-optimization of gas chromatography parameters for residual solvent analysis.,Quality Assurance,Analytical Methods,Minor,1,High,06-11-2025,29-11-2025,09-01-2026
+CR-2025-0069,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Major,0,High,16-09-2025,27-10-2025,09-11-2025
+CR-2025-0070,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Supply Chain,Manufacturing Equipment,Major,0,High,21-11-2025,28-12-2025,10-01-2026
+CR-2025-0071,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Minor,0,Medium,08-03-2025,27-04-2025,10-05-2025
+CR-2025-0072,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Minor,0,Medium,10-10-2025,04-12-2025,22-12-2025
+CR-2025-0073,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Minor,0,Medium,08-02-2025,03-04-2025,12-04-2025
+CR-2025-0074,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Major,1,Medium,26-10-2025,10-12-2025,08-01-2026
+CR-2025-0075,Deployment of software patch v4.2 to the SCADA control network system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,07-06-2025,10-07-2025,16-07-2025
+CR-2025-0076,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Minor,1,Low,08-12-2025,24-12-2025,04-02-2026
+CR-2025-0077,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Supply Chain,Packaging Lines,Major,1,Medium,14-11-2025,10-01-2026,08-02-2026
+CR-2025-0078,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Minor,0,High,01-04-2025,07-05-2025,12-05-2025
+CR-2025-0079,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,0,Medium,30-07-2025,20-09-2025,02-10-2025
+CR-2025-0080,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,0,Medium,15-07-2025,27-07-2025,16-08-2025
+CR-2025-0081,Configuration of access control parameters on the enterprise PLC networks.,Quality Assurance,IT & Automation Systems,Critical,3,Low,29-06-2025,06-09-2025,10-10-2025
+CR-2025-0082,Modification of product contact parts on the tablet compression machine tooling.,Quality Assurance,Manufacturing Equipment,Minor,1,High,24-07-2025,24-08-2025,30-09-2025
+CR-2025-0083,Installation of an automatic visual inspection system on packaging line 3.,Supply Chain,Manufacturing Equipment,Minor,2,Low,29-06-2025,19-08-2025,10-10-2025
+CR-2025-0084,Standardization of analytical instrument calibration intervals and criteria.,Engineering & Maintenance,Standard Operating Procedures,Major,0,High,19-06-2025,30-06-2025,08-07-2025
+CR-2025-0085,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Control,IT & Automation Systems,Major,0,High,16-05-2025,28-05-2025,05-06-2025
+CR-2025-0086,Installation of online total organic carbon analyzer on the WFI loop pump.,Regulatory Affairs,HVAC & Utilities,Major,2,Low,10-06-2025,17-07-2025,13-09-2025
+CR-2025-0087,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Regulatory Affairs,Manufacturing Equipment,Major,1,High,23-10-2025,14-11-2025,20-12-2025
+CR-2025-0088,Comprehensive overhaul of cleaning verification sampling procedure plans.,Production,Standard Operating Procedures,Critical,1,High,01-01-2025,07-04-2025,31-05-2025
+CR-2025-0089,Update to material dispensing guidelines across secondary staging areas.,Information Technology,Standard Operating Procedures,Major,1,Medium,06-07-2025,12-08-2025,05-09-2025
+CR-2025-0090,Introduction of automatic titration parameters for stability testing protocols.,Information Technology,Analytical Methods,Major,0,High,10-06-2025,01-08-2025,09-08-2025
+CR-2025-0091,Introduction of automatic titration parameters for stability testing protocols.,Information Technology,Analytical Methods,Major,2,Medium,08-06-2025,30-07-2025,14-09-2025
+CR-2025-0092,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Critical,1,High,11-10-2025,26-11-2025,28-12-2025
+CR-2025-0093,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Major,1,Medium,13-12-2025,08-02-2026,11-03-2026
+CR-2025-0094,Upgrade of serialization printers on bottle capping line 2 setup.,Regulatory Affairs,Packaging Lines,Major,0,Medium,27-07-2025,10-09-2025,15-09-2025
+CR-2025-0095,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Minor,0,High,09-08-2025,08-10-2025,23-10-2025
+CR-2025-0096,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,12-12-2025,04-01-2026,24-01-2026
+CR-2025-0097,Installation of interlocking maglock systems on containment airlocks.,Supply Chain,Facilities,Minor,0,High,04-12-2025,19-12-2025,02-01-2026
+CR-2025-0098,Standardization of analytical instrument calibration intervals and criteria.,Regulatory Affairs,Standard Operating Procedures,Minor,0,Medium,21-06-2025,06-07-2025,18-07-2025
+CR-2025-0099,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Minor,0,High,12-04-2025,01-05-2025,06-05-2025
+CR-2025-0100,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Minor,0,Medium,09-11-2025,07-01-2026,14-01-2026
+CR-2025-0101,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,10-04-2025,04-06-2025,21-06-2025
+CR-2025-0102,Modification of airflow return duct patterns in the granulation cleanroom.,Engineering & Maintenance,HVAC & Utilities,Major,3,Medium,17-03-2025,07-05-2025,27-05-2025
+CR-2025-0103,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Supply Chain,Facilities,Minor,0,High,06-08-2025,30-08-2025,09-09-2025
+CR-2025-0104,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Minor,0,High,26-08-2025,08-09-2025,20-09-2025
+CR-2025-0105,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Supply Chain,Manufacturing Equipment,Minor,1,Low,10-03-2025,18-04-2025,10-06-2025
+CR-2025-0106,Upgrade of serialization printers on bottle capping line 2 setup.,Regulatory Affairs,Packaging Lines,Major,0,High,15-08-2025,03-10-2025,21-10-2025
+CR-2025-0107,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Supply Chain,Packaging Lines,Minor,0,High,23-03-2025,19-05-2025,08-06-2025
+CR-2025-0108,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Major,0,Medium,23-11-2025,20-12-2025,09-01-2026
+CR-2025-0109,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Critical,1,Medium,14-08-2025,22-09-2025,30-10-2025
+CR-2025-0110,Re-optimization of gas chromatography parameters for residual solvent analysis.,Quality Assurance,Analytical Methods,Major,0,High,13-06-2025,27-07-2025,03-08-2025
+CR-2025-0111,Integration of secondary barcode validation architecture into the MES platform.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,16-07-2025,08-09-2025,17-09-2025
+CR-2025-0112,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,High,01-08-2025,06-09-2025,21-09-2025
+CR-2025-0113,Upgrade of the secondary compressor system on the purified water chiller.,Regulatory Affairs,HVAC & Utilities,Major,0,Medium,01-02-2025,24-02-2025,14-03-2025
+CR-2025-0114,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Engineering & Maintenance,Facilities,Minor,0,High,23-12-2025,03-01-2026,20-01-2026
+CR-2025-0115,Installation of an automatic visual inspection system on packaging line 3.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,02-06-2025,30-07-2025,16-08-2025
+CR-2025-0116,Relocation of the incoming raw material inspection staging barrier.,Supply Chain,Facilities,Major,0,Medium,03-10-2025,29-11-2025,11-12-2025
+CR-2025-0117,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,Medium,12-08-2025,22-09-2025,27-09-2025
+CR-2025-0118,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Major,0,Medium,26-03-2025,04-05-2025,13-05-2025
+CR-2025-0119,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,0,Medium,21-07-2025,06-09-2025,11-09-2025
+CR-2025-0120,Comprehensive overhaul of cleaning verification sampling procedure plans.,Production,Standard Operating Procedures,Major,2,Low,11-03-2025,19-04-2025,20-05-2025
+CR-2025-0121,Implementation of a dual-wavelength spectrophotometric verification assay.,Production,Analytical Methods,Minor,0,Medium,17-06-2025,10-07-2025,29-07-2025
+CR-2025-0122,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,1,Low,23-05-2025,20-07-2025,04-09-2025
+CR-2025-0123,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Critical,1,Low,29-08-2025,30-09-2025,23-11-2025
+CR-2025-0124,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Minor,0,High,29-11-2025,13-12-2025,19-12-2025
+CR-2025-0125,Modification of product contact parts on the tablet compression machine tooling.,Supply Chain,Manufacturing Equipment,Minor,0,Medium,13-04-2025,24-04-2025,03-05-2025
+CR-2025-0126,Configuration of access control parameters on the enterprise PLC networks.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,09-12-2025,26-12-2025,06-01-2026
+CR-2025-0127,Harmonization of environment monitoring step protocols across regional sites.,Engineering & Maintenance,Standard Operating Procedures,Major,0,High,08-07-2025,28-07-2025,05-08-2025
+CR-2025-0128,Installation of interlocking maglock systems on containment airlocks.,Supply Chain,Facilities,Major,2,Medium,09-06-2025,25-06-2025,21-08-2025
+CR-2025-0129,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Major,0,Medium,13-12-2025,16-01-2026,02-02-2026
+CR-2025-0130,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,Medium,31-10-2025,24-12-2025,05-01-2026
+CR-2025-0131,Harmonization of environment monitoring step protocols across regional sites.,Production,Standard Operating Procedures,Critical,1,High,17-12-2025,02-04-2026,29-04-2026
+CR-2025-0132,Modification of blister forming forming-die plate to support 10-count layouts.,Supply Chain,Packaging Lines,Major,2,High,27-06-2025,10-08-2025,26-09-2025
+CR-2025-0133,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Major,1,High,17-09-2025,07-11-2025,18-12-2025
+CR-2025-0134,Relocation of the incoming raw material inspection staging barrier.,Production,Facilities,Major,2,High,08-09-2025,24-09-2025,10-11-2025
+CR-2025-0135,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Control,Standard Operating Procedures,Minor,0,Medium,29-12-2025,17-01-2026,04-02-2026
+CR-2025-0136,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Major,0,High,30-11-2025,27-12-2025,16-01-2026
+CR-2025-0137,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Critical,1,High,18-05-2025,28-07-2025,01-09-2025
+CR-2025-0138,Installation of an automatic visual inspection system on packaging line 3.,Supply Chain,Manufacturing Equipment,Critical,2,Low,19-08-2025,19-10-2025,07-12-2025
+CR-2025-0139,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Regulatory Affairs,Packaging Lines,Major,0,High,22-06-2025,03-07-2025,23-07-2025
+CR-2025-0140,Validation of a new rapid microbiological method for water testing loop A.,Supply Chain,Analytical Methods,Minor,0,Medium,07-09-2025,30-09-2025,16-10-2025
+CR-2025-0141,Re-optimization of gas chromatography parameters for residual solvent analysis.,Supply Chain,Analytical Methods,Major,0,Medium,24-05-2025,11-07-2025,24-07-2025
+CR-2025-0142,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,08-04-2025,23-04-2025,05-05-2025
+CR-2025-0143,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Minor,0,Medium,12-10-2025,09-12-2025,21-12-2025
+CR-2025-0144,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Minor,0,High,18-08-2025,17-10-2025,22-10-2025
+CR-2025-0145,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Major,0,High,27-07-2025,19-09-2025,01-10-2025
+CR-2025-0146,Standardization of analytical instrument calibration intervals and criteria.,Quality Control,Standard Operating Procedures,Major,1,High,08-07-2025,17-08-2025,11-10-2025
+CR-2025-0147,Implementation of a dual-wavelength spectrophotometric verification assay.,Regulatory Affairs,Analytical Methods,Major,0,High,09-10-2025,09-11-2025,25-11-2025
+CR-2025-0148,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Critical,1,High,06-06-2025,07-08-2025,10-09-2025
+CR-2025-0149,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Major,3,Low,11-06-2025,28-06-2025,21-08-2025
+CR-2025-0150,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Major,0,High,09-04-2025,02-05-2025,22-05-2025
+CR-2025-0151,Standardization of analytical instrument calibration intervals and criteria.,Quality Control,Standard Operating Procedures,Major,0,High,26-09-2025,13-11-2025,27-11-2025
+CR-2025-0152,Installation of interlocking maglock systems on containment airlocks.,Production,Facilities,Critical,1,High,01-06-2025,30-07-2025,11-09-2025
+CR-2025-0153,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Assurance,Analytical Methods,Minor,0,High,29-12-2025,11-02-2026,20-02-2026
+CR-2025-0154,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Quality Control,Manufacturing Equipment,Minor,0,High,11-10-2025,08-11-2025,17-11-2025
+CR-2025-0155,Relocation of the incoming raw material inspection staging barrier.,Information Technology,Facilities,Major,3,High,22-02-2025,04-03-2025,29-04-2025
+CR-2025-0156,Upgrade of the secondary compressor system on the purified water chiller.,Quality Control,HVAC & Utilities,Minor,1,High,14-08-2025,14-09-2025,15-10-2025
+CR-2025-0157,Implementation of a dual-wavelength spectrophotometric verification assay.,Production,Analytical Methods,Minor,1,Low,28-02-2025,14-03-2025,28-04-2025
+CR-2025-0158,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Engineering & Maintenance,Manufacturing Equipment,Critical,2,High,19-11-2025,16-03-2026,08-04-2026
+CR-2025-0159,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,1,Low,05-06-2025,20-06-2025,25-07-2025
+CR-2025-0160,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Production,Packaging Lines,Major,1,Low,07-11-2025,25-12-2025,22-02-2026
+CR-2025-0161,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Major,0,Medium,14-07-2025,21-08-2025,09-09-2025
+CR-2025-0162,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Control,Facilities,Major,2,High,08-08-2025,06-09-2025,01-11-2025
+CR-2025-0163,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Minor,1,High,20-02-2025,19-04-2025,22-05-2025
+CR-2025-0164,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Major,1,High,05-12-2025,20-12-2025,19-01-2026
+CR-2025-0165,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,0,High,08-02-2025,28-02-2025,05-03-2025
+CR-2025-0166,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,29-08-2025,26-09-2025,02-10-2025
+CR-2025-0167,Re-optimization of gas chromatography parameters for residual solvent analysis.,Quality Assurance,Analytical Methods,Critical,2,Low,26-12-2025,24-03-2026,17-04-2026
+CR-2025-0168,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Minor,0,High,17-11-2025,03-01-2026,14-01-2026
+CR-2025-0169,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Engineering & Maintenance,Manufacturing Equipment,Major,2,High,26-04-2025,16-06-2025,15-07-2025
+CR-2025-0170,Installation of interlocking maglock systems on containment airlocks.,Quality Control,Facilities,Major,2,Low,06-02-2025,19-02-2025,21-03-2025
+CR-2025-0171,Introduction of automatic titration parameters for stability testing protocols.,Supply Chain,Analytical Methods,Major,2,High,19-10-2025,16-11-2025,03-01-2026
+CR-2025-0172,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Major,0,High,25-12-2025,29-01-2026,11-02-2026
+CR-2025-0173,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Regulatory Affairs,Packaging Lines,Minor,2,Medium,13-08-2025,28-08-2025,25-10-2025
+CR-2025-0174,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Minor,0,High,06-11-2025,02-12-2025,07-12-2025
+CR-2025-0175,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Critical,2,Medium,28-10-2025,29-11-2025,05-01-2026
+CR-2025-0176,Modification of product contact parts on the tablet compression machine tooling.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,29-08-2025,11-10-2025,30-10-2025
+CR-2025-0177,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Control,IT & Automation Systems,Minor,0,Medium,12-08-2025,01-10-2025,21-10-2025
+CR-2025-0178,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Critical,2,Low,29-07-2025,09-10-2025,18-11-2025
+CR-2025-0179,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Major,2,Low,18-06-2025,24-07-2025,13-09-2025
+CR-2025-0180,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Control,Standard Operating Procedures,Minor,0,High,09-10-2025,21-10-2025,09-11-2025
+CR-2025-0181,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Critical,1,Medium,15-06-2025,29-07-2025,12-09-2025
+CR-2025-0182,Modification of blister forming forming-die plate to support 10-count layouts.,Supply Chain,Packaging Lines,Major,0,Medium,03-12-2025,16-01-2026,04-02-2026
+CR-2025-0183,Modification of product contact parts on the tablet compression machine tooling.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,Medium,23-09-2025,26-10-2025,15-11-2025
+CR-2025-0184,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Information Technology,HVAC & Utilities,Major,2,High,15-04-2025,12-05-2025,06-07-2025
+CR-2025-0185,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Major,2,High,24-12-2025,03-02-2026,02-03-2026
+CR-2025-0186,Standardization of analytical instrument calibration intervals and criteria.,Production,Standard Operating Procedures,Minor,0,High,03-05-2025,27-06-2025,07-07-2025
+CR-2025-0187,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Control,Packaging Lines,Major,1,Medium,10-10-2025,15-11-2025,10-12-2025
+CR-2025-0188,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Assurance,Facilities,Minor,0,High,25-08-2025,11-09-2025,20-09-2025
+CR-2025-0189,Harmonization of environment monitoring step protocols across regional sites.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,High,18-09-2025,12-11-2025,25-11-2025
+CR-2025-0190,Relocation of the incoming raw material inspection staging barrier.,Engineering & Maintenance,Facilities,Minor,1,Low,30-08-2025,24-09-2025,12-11-2025
+CR-2025-0191,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Minor,0,Medium,08-04-2025,26-05-2025,04-06-2025
+CR-2025-0192,Installation of an automatic visual inspection system on packaging line 3.,Supply Chain,Manufacturing Equipment,Major,2,Medium,01-08-2025,01-09-2025,23-10-2025
+CR-2025-0193,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Minor,1,Low,25-05-2025,20-07-2025,28-08-2025
+CR-2025-0194,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,2,High,04-12-2025,14-01-2026,12-02-2026
+CR-2025-0195,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Minor,0,High,26-06-2025,27-07-2025,13-08-2025
+CR-2025-0196,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Minor,0,High,24-12-2025,18-01-2026,04-02-2026
+CR-2025-0197,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Minor,0,High,23-01-2025,22-02-2025,14-03-2025
+CR-2025-0198,Relocation of the incoming raw material inspection staging barrier.,Information Technology,Facilities,Major,0,High,17-07-2025,07-09-2025,16-09-2025
+CR-2025-0199,Modification of product contact parts on the tablet compression machine tooling.,Engineering & Maintenance,Manufacturing Equipment,Major,1,High,15-09-2025,01-11-2025,12-12-2025
+CR-2025-0200,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Supply Chain,Manufacturing Equipment,Minor,0,High,21-02-2025,05-04-2025,24-04-2025
+CR-2025-0201,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Minor,0,High,29-07-2025,18-09-2025,27-09-2025
+CR-2025-0202,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Minor,0,High,23-06-2025,11-08-2025,28-08-2025
+CR-2025-0203,Installation of an automatic visual inspection system on packaging line 3.,Information Technology,Manufacturing Equipment,Minor,0,High,12-12-2025,25-01-2026,11-02-2026
+CR-2025-0204,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Control,Standard Operating Procedures,Major,1,High,05-10-2025,17-10-2025,15-12-2025
+CR-2025-0205,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Major,2,High,27-04-2025,23-06-2025,18-07-2025
+CR-2025-0206,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Engineering & Maintenance,Manufacturing Equipment,Critical,1,High,16-08-2025,06-10-2025,14-11-2025
+CR-2025-0207,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Major,0,Medium,29-01-2025,26-02-2025,14-03-2025
+CR-2025-0208,Modification of airflow return duct patterns in the granulation cleanroom.,Quality Control,HVAC & Utilities,Minor,0,High,06-05-2025,18-06-2025,06-07-2025
+CR-2025-0209,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Major,0,High,29-03-2025,19-04-2025,26-04-2025
+CR-2025-0210,Relocation of the incoming raw material inspection staging barrier.,Regulatory Affairs,Facilities,Major,0,High,14-11-2025,06-01-2026,18-01-2026
+CR-2025-0211,Installation of an updated vision system camera for cartoon lot verification.,Engineering & Maintenance,Packaging Lines,Major,1,Medium,29-04-2025,07-06-2025,06-08-2025
+CR-2025-0212,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Minor,0,High,08-12-2025,18-12-2025,06-01-2026
+CR-2025-0213,Standardization of analytical instrument calibration intervals and criteria.,Quality Control,Standard Operating Procedures,Minor,0,High,22-03-2025,05-04-2025,24-04-2025
+CR-2025-0214,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Control,Packaging Lines,Minor,0,High,24-11-2025,31-12-2025,13-01-2026
+CR-2025-0215,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Minor,0,High,12-04-2025,16-05-2025,05-06-2025
+CR-2025-0216,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Major,1,High,20-10-2025,21-11-2025,16-01-2026
+CR-2025-0217,Harmonization of environment monitoring step protocols across regional sites.,Quality Control,Standard Operating Procedures,Major,0,High,12-01-2025,05-03-2025,22-03-2025
+CR-2025-0218,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Control,Manufacturing Equipment,Minor,0,High,18-12-2025,15-02-2026,21-02-2026
+CR-2025-0219,Comprehensive overhaul of cleaning verification sampling procedure plans.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,27-05-2025,25-07-2025,06-08-2025
+CR-2025-0220,Refurbishment of wall panels and ceiling joints within wash bay area.,Regulatory Affairs,Facilities,Minor,0,Medium,23-04-2025,12-06-2025,23-06-2025
+CR-2025-0221,Validation of a new rapid microbiological method for water testing loop A.,Regulatory Affairs,Analytical Methods,Minor,1,Low,18-11-2025,04-12-2025,02-02-2026
+CR-2025-0222,Installation of an automatic visual inspection system on packaging line 3.,Information Technology,Manufacturing Equipment,Minor,0,High,14-08-2025,26-08-2025,11-09-2025
+CR-2025-0223,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,High,01-06-2025,01-07-2025,19-07-2025
+CR-2025-0224,Integration of secondary barcode validation architecture into the MES platform.,Quality Assurance,IT & Automation Systems,Minor,1,High,04-10-2025,06-11-2025,29-12-2025
+CR-2025-0225,Validation of a new rapid microbiological method for water testing loop A.,Regulatory Affairs,Analytical Methods,Minor,0,High,12-05-2025,21-06-2025,05-07-2025
+CR-2025-0226,Refurbishment of wall panels and ceiling joints within wash bay area.,Information Technology,Facilities,Critical,1,High,28-02-2025,28-05-2025,21-06-2025
+CR-2025-0227,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Critical,2,Medium,13-12-2025,08-04-2026,23-05-2026
+CR-2025-0228,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Minor,0,High,07-07-2025,22-07-2025,08-08-2025
+CR-2025-0229,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Critical,1,High,05-03-2025,01-06-2025,14-07-2025
+CR-2025-0230,Harmonization of environment monitoring step protocols across regional sites.,Information Technology,Standard Operating Procedures,Minor,0,Medium,27-10-2025,30-11-2025,16-12-2025
+CR-2025-0231,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Minor,0,High,30-08-2025,10-09-2025,25-09-2025
+CR-2025-0232,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,22-11-2025,31-12-2025,14-01-2026
+CR-2025-0233,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Information Technology,HVAC & Utilities,Minor,0,High,13-03-2025,25-03-2025,31-03-2025
+CR-2025-0234,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Control,HVAC & Utilities,Minor,0,High,19-02-2025,16-03-2025,25-03-2025
+CR-2025-0235,Installation of online total organic carbon analyzer on the WFI loop pump.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,10-12-2025,05-02-2026,23-02-2026
+CR-2025-0236,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Critical,2,High,01-08-2025,22-11-2025,18-12-2025
+CR-2025-0237,Rebalancing of differential pressures across cleanroom corridors zone B.,Supply Chain,HVAC & Utilities,Minor,0,Medium,28-07-2025,24-08-2025,30-08-2025
+CR-2025-0238,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Major,0,High,16-08-2025,23-09-2025,05-10-2025
+CR-2025-0239,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Supply Chain,Analytical Methods,Minor,1,Low,18-12-2025,20-01-2026,15-03-2026
+CR-2025-0240,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Critical,2,High,23-07-2025,26-09-2025,28-10-2025
+CR-2025-0241,Relocation of the incoming raw material inspection staging barrier.,Production,Facilities,Critical,0,High,16-02-2025,10-06-2025,21-06-2025
+CR-2025-0242,Standardization of analytical instrument calibration intervals and criteria.,Information Technology,Standard Operating Procedures,Major,1,High,11-01-2025,24-01-2025,06-03-2025
+CR-2025-0243,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,16-04-2025,30-04-2025,11-05-2025
+CR-2025-0244,Integration of secondary barcode validation architecture into the MES platform.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,18-06-2025,16-08-2025,25-08-2025
+CR-2025-0245,Modification of blister forming forming-die plate to support 10-count layouts.,Supply Chain,Packaging Lines,Major,0,High,22-05-2025,10-06-2025,19-06-2025
+CR-2025-0246,Validation of a new rapid microbiological method for water testing loop A.,Regulatory Affairs,Analytical Methods,Major,1,High,26-02-2025,19-04-2025,10-05-2025
+CR-2025-0247,Installation of an automatic visual inspection system on packaging line 3.,Quality Assurance,Manufacturing Equipment,Minor,0,High,02-05-2025,18-06-2025,03-07-2025
+CR-2025-0248,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Minor,0,Medium,27-01-2025,14-02-2025,04-03-2025
+CR-2025-0249,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Minor,0,Medium,01-09-2025,09-10-2025,25-10-2025
+CR-2025-0250,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,1,Low,20-08-2025,01-10-2025,04-11-2025
+CR-2025-0251,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Minor,1,Low,04-06-2025,13-07-2025,03-08-2025
+CR-2025-0252,Upgrade of the secondary compressor system on the purified water chiller.,Production,HVAC & Utilities,Minor,0,High,07-08-2025,29-09-2025,07-10-2025
+CR-2025-0253,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Major,2,High,07-02-2025,22-02-2025,03-04-2025
+CR-2025-0254,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Major,0,High,06-03-2025,02-04-2025,17-04-2025
+CR-2025-0255,Replacement of label application vacuum pads on high speed vial labelers.,Engineering & Maintenance,Packaging Lines,Minor,0,Medium,31-05-2025,09-07-2025,27-07-2025
+CR-2025-0256,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Production,Facilities,Major,2,Medium,02-12-2025,22-01-2026,18-03-2026
+CR-2025-0257,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Minor,0,Medium,09-08-2025,16-09-2025,28-09-2025
+CR-2025-0258,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Major,0,High,24-07-2025,29-08-2025,06-09-2025
+CR-2025-0259,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Major,0,High,07-12-2025,02-01-2026,18-01-2026
+CR-2025-0260,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Major,1,Medium,04-02-2025,19-02-2025,16-03-2025
+CR-2025-0261,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Major,0,High,10-07-2025,28-07-2025,03-08-2025
+CR-2025-0262,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Minor,1,High,18-06-2025,09-08-2025,05-09-2025
+CR-2025-0263,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Major,0,High,27-01-2025,24-02-2025,10-03-2025
+CR-2025-0264,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Control,Manufacturing Equipment,Critical,1,High,17-09-2025,13-11-2025,12-12-2025
+CR-2025-0265,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Minor,0,Medium,25-02-2025,29-03-2025,14-04-2025
+CR-2025-0266,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Major,1,Low,21-10-2025,14-11-2025,31-12-2025
+CR-2025-0267,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Major,2,Low,11-11-2025,03-01-2026,27-02-2026
+CR-2025-0268,Upgrade of serialization printers on bottle capping line 2 setup.,Production,Packaging Lines,Minor,0,High,15-01-2025,05-02-2025,18-02-2025
+CR-2025-0269,Refurbishment of wall panels and ceiling joints within wash bay area.,Information Technology,Facilities,Minor,1,Medium,23-06-2025,25-07-2025,14-08-2025
+CR-2025-0270,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Critical,0,High,17-10-2025,08-02-2026,25-02-2026
+CR-2025-0271,Deployment of software patch v4.2 to the SCADA control network system.,Production,IT & Automation Systems,Critical,0,Medium,16-02-2025,24-05-2025,04-06-2025
+CR-2025-0272,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Critical,1,Medium,24-06-2025,13-08-2025,25-09-2025
+CR-2025-0273,Harmonization of environment monitoring step protocols across regional sites.,Quality Control,Standard Operating Procedures,Major,0,High,18-10-2025,05-12-2025,12-12-2025
+CR-2025-0274,Integration of secondary barcode validation architecture into the MES platform.,Production,IT & Automation Systems,Minor,0,Medium,13-11-2025,26-11-2025,03-12-2025
+CR-2025-0275,Upgrade of the secondary compressor system on the purified water chiller.,Quality Control,HVAC & Utilities,Minor,0,High,06-09-2025,24-10-2025,12-11-2025
+CR-2025-0276,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Critical,1,High,20-09-2025,03-11-2025,15-12-2025
+CR-2025-0277,Installation of an automatic visual inspection system on packaging line 3.,Engineering & Maintenance,Manufacturing Equipment,Major,0,High,14-12-2025,05-02-2026,25-02-2026
+CR-2025-0278,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,24-01-2025,17-02-2025,06-03-2025
+CR-2025-0279,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Minor,1,High,15-04-2025,14-05-2025,16-06-2025
+CR-2025-0280,Migration of data archive servers for the electronic batch record system.,Supply Chain,IT & Automation Systems,Minor,0,High,29-05-2025,28-06-2025,06-07-2025
+CR-2025-0281,Upgrade of the secondary compressor system on the purified water chiller.,Production,HVAC & Utilities,Minor,0,Medium,31-03-2025,18-04-2025,05-05-2025
+CR-2025-0282,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Critical,1,High,14-09-2025,24-12-2025,04-02-2026
+CR-2025-0283,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Minor,1,Low,12-08-2025,23-08-2025,11-10-2025
+CR-2025-0284,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Major,1,High,22-10-2025,28-11-2025,23-01-2026
+CR-2025-0285,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,Medium,29-05-2025,15-06-2025,02-07-2025
+CR-2025-0286,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Minor,0,High,13-11-2025,22-12-2025,07-01-2026
+CR-2025-0287,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Major,1,High,05-05-2025,11-06-2025,07-08-2025
+CR-2025-0288,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Minor,0,High,22-07-2025,20-08-2025,04-09-2025
+CR-2025-0289,Validation of a new rapid microbiological method for water testing loop A.,Quality Assurance,Analytical Methods,Minor,0,High,09-02-2025,23-03-2025,31-03-2025
+CR-2025-0290,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Minor,1,Medium,28-06-2025,30-07-2025,28-08-2025
+CR-2025-0291,Modification of product contact parts on the tablet compression machine tooling.,Quality Assurance,Manufacturing Equipment,Minor,0,High,12-05-2025,03-06-2025,13-06-2025
+CR-2025-0292,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,01-04-2025,30-05-2025,19-06-2025
+CR-2025-0293,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Engineering & Maintenance,Facilities,Major,0,Medium,24-10-2025,01-12-2025,16-12-2025
+CR-2025-0294,Harmonization of environment monitoring step protocols across regional sites.,Supply Chain,Standard Operating Procedures,Minor,0,High,19-03-2025,26-04-2025,03-05-2025
+CR-2025-0295,Installation of online total organic carbon analyzer on the WFI loop pump.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,21-05-2025,07-07-2025,13-07-2025
+CR-2025-0296,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Control,Packaging Lines,Minor,0,Medium,08-06-2025,17-07-2025,05-08-2025
+CR-2025-0297,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Minor,0,High,27-05-2025,10-06-2025,17-06-2025
+CR-2025-0298,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Major,0,Medium,16-07-2025,24-08-2025,30-08-2025
+CR-2025-0299,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Engineering & Maintenance,Facilities,Major,0,High,30-11-2025,22-12-2025,06-01-2026
+CR-2025-0300,Rebalancing of differential pressures across cleanroom corridors zone B.,Regulatory Affairs,HVAC & Utilities,Major,0,High,19-03-2025,01-04-2025,20-04-2025
+CR-2025-0301,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Minor,0,High,01-01-2026,16-01-2026,26-01-2026
+CR-2025-0302,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Major,2,High,13-08-2025,25-09-2025,17-11-2025
+CR-2025-0303,Migration of data archive servers for the electronic batch record system.,Regulatory Affairs,IT & Automation Systems,Major,0,High,10-07-2025,07-08-2025,24-08-2025
+CR-2025-0304,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Minor,0,High,14-12-2025,31-01-2026,06-02-2026
+CR-2025-0305,Harmonization of environment monitoring step protocols across regional sites.,Supply Chain,Standard Operating Procedures,Major,1,High,03-02-2025,06-03-2025,01-04-2025
+CR-2025-0306,Comprehensive overhaul of cleaning verification sampling procedure plans.,Regulatory Affairs,Standard Operating Procedures,Minor,1,High,26-05-2025,21-06-2025,18-08-2025
+CR-2025-0307,Migration of data archive servers for the electronic batch record system.,Supply Chain,IT & Automation Systems,Major,2,High,11-02-2025,30-03-2025,28-04-2025
+CR-2025-0308,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,0,Medium,08-03-2025,25-04-2025,02-05-2025
+CR-2025-0309,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Quality Control,Packaging Lines,Minor,0,High,26-11-2025,25-01-2026,09-02-2026
+CR-2025-0310,Update of user access roles and active directory profiles in Laboratory LIMS.,Supply Chain,IT & Automation Systems,Minor,0,Medium,17-02-2025,09-04-2025,27-04-2025
+CR-2025-0311,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Regulatory Affairs,Analytical Methods,Minor,2,Medium,05-07-2025,03-08-2025,03-09-2025
+CR-2025-0312,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,0,High,09-04-2025,03-05-2025,12-05-2025
+CR-2025-0313,Installation of an automatic visual inspection system on packaging line 3.,Quality Assurance,Manufacturing Equipment,Minor,1,Low,21-02-2025,04-04-2025,28-05-2025
+CR-2025-0314,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Major,1,High,20-01-2025,13-03-2025,23-04-2025
+CR-2025-0315,Installation of an updated vision system camera for cartoon lot verification.,Supply Chain,Packaging Lines,Major,0,Medium,02-11-2025,06-12-2025,15-12-2025
+CR-2025-0316,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,1,High,26-03-2025,21-05-2025,08-07-2025
+CR-2025-0317,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Major,1,High,13-12-2025,07-02-2026,14-03-2026
+CR-2025-0318,Upgrade of serialization printers on bottle capping line 2 setup.,Engineering & Maintenance,Packaging Lines,Major,2,High,18-08-2025,11-09-2025,04-11-2025
+CR-2025-0319,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,0,High,10-04-2025,13-05-2025,01-06-2025
+CR-2025-0320,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Minor,0,High,15-07-2025,26-08-2025,13-09-2025
+CR-2025-0321,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Minor,0,Medium,06-11-2025,24-11-2025,07-12-2025
+CR-2025-0322,Comprehensive overhaul of cleaning verification sampling procedure plans.,Production,Standard Operating Procedures,Minor,0,High,10-07-2025,24-08-2025,01-09-2025
+CR-2025-0323,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Information Technology,Facilities,Major,1,High,05-03-2025,02-04-2025,27-04-2025
+CR-2025-0324,Migration of data archive servers for the electronic batch record system.,Supply Chain,IT & Automation Systems,Minor,1,Medium,19-08-2025,30-09-2025,29-10-2025
+CR-2025-0325,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Supply Chain,HVAC & Utilities,Major,0,High,24-04-2025,01-06-2025,17-06-2025
+CR-2025-0326,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Minor,0,High,22-07-2025,02-09-2025,18-09-2025
+CR-2025-0327,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Assurance,HVAC & Utilities,Minor,0,High,11-07-2025,04-08-2025,09-08-2025
+CR-2025-0328,Installation of an automatic visual inspection system on packaging line 3.,Quality Control,Manufacturing Equipment,Major,0,High,16-03-2025,03-04-2025,09-04-2025
+CR-2025-0329,Relocation of the incoming raw material inspection staging barrier.,Quality Control,Facilities,Major,1,High,23-12-2025,10-01-2026,01-03-2026
+CR-2025-0330,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Minor,0,High,10-02-2025,21-02-2025,06-03-2025
+CR-2025-0331,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Major,0,Medium,08-10-2025,03-12-2025,21-12-2025
+CR-2025-0332,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Major,0,High,02-05-2025,31-05-2025,08-06-2025
+CR-2025-0333,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Critical,3,High,24-11-2025,13-03-2026,01-05-2026
+CR-2025-0334,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Production,Manufacturing Equipment,Minor,0,High,02-11-2025,16-12-2025,21-12-2025
+CR-2025-0335,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Major,1,Medium,04-05-2025,28-06-2025,27-07-2025
+CR-2025-0336,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Control,HVAC & Utilities,Major,1,Medium,11-11-2025,13-12-2025,17-01-2026
+CR-2025-0337,Modification of airflow return duct patterns in the granulation cleanroom.,Regulatory Affairs,HVAC & Utilities,Minor,0,High,07-12-2025,28-01-2026,04-02-2026
+CR-2025-0338,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Regulatory Affairs,Analytical Methods,Critical,1,Low,27-09-2025,04-01-2026,25-02-2026
+CR-2025-0339,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Major,1,Low,11-01-2025,14-02-2025,05-04-2025
+CR-2025-0340,Comprehensive overhaul of cleaning verification sampling procedure plans.,Production,Standard Operating Procedures,Major,1,Low,11-07-2025,06-08-2025,27-08-2025
+CR-2025-0341,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Major,2,High,26-06-2025,21-07-2025,19-09-2025
+CR-2025-0342,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Production,Facilities,Critical,2,Low,20-06-2025,06-08-2025,28-08-2025
+CR-2025-0343,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Control,Packaging Lines,Major,0,Medium,26-11-2025,17-12-2025,05-01-2026
+CR-2025-0344,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,1,High,11-03-2025,25-03-2025,13-05-2025
+CR-2025-0345,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Minor,0,High,23-01-2025,24-03-2025,04-04-2025
+CR-2025-0346,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Major,1,High,21-09-2025,26-10-2025,19-12-2025
+CR-2025-0347,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Engineering & Maintenance,Analytical Methods,Minor,0,High,28-11-2025,20-12-2025,03-01-2026
+CR-2025-0348,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Major,1,High,02-12-2025,02-01-2026,08-02-2026
+CR-2025-0349,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Major,0,Medium,12-08-2025,16-09-2025,05-10-2025
+CR-2025-0350,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Minor,0,Medium,12-09-2025,05-11-2025,25-11-2025
+CR-2025-0351,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Control,Facilities,Major,2,High,17-05-2025,01-06-2025,18-07-2025
+CR-2025-0352,Rebalancing of differential pressures across cleanroom corridors zone B.,Production,HVAC & Utilities,Major,1,Low,03-04-2025,17-05-2025,24-06-2025
+CR-2025-0353,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Quality Control,Manufacturing Equipment,Major,0,High,17-06-2025,08-08-2025,22-08-2025
+CR-2025-0354,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Control,HVAC & Utilities,Major,3,Medium,07-08-2025,27-08-2025,14-10-2025
+CR-2025-0355,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Control,HVAC & Utilities,Major,0,High,30-06-2025,18-08-2025,05-09-2025
+CR-2025-0356,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Major,0,High,08-02-2025,01-04-2025,18-04-2025
+CR-2025-0357,Installation of an updated vision system camera for cartoon lot verification.,Quality Control,Packaging Lines,Minor,0,High,16-01-2025,04-02-2025,23-02-2025
+CR-2025-0358,Deployment of software patch v4.2 to the SCADA control network system.,Production,IT & Automation Systems,Minor,0,High,01-05-2025,29-06-2025,15-07-2025
+CR-2025-0359,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Control,HVAC & Utilities,Critical,1,High,17-01-2025,04-05-2025,02-06-2025
+CR-2025-0360,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Major,2,High,10-07-2025,17-08-2025,10-09-2025
+CR-2025-0361,Update of user access roles and active directory profiles in Laboratory LIMS.,Regulatory Affairs,IT & Automation Systems,Major,0,High,07-07-2025,11-08-2025,26-08-2025
+CR-2025-0362,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Major,1,Low,28-02-2025,11-03-2025,11-04-2025
+CR-2025-0363,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Major,3,High,15-10-2025,01-11-2025,07-12-2025
+CR-2025-0364,Implementation of a dual-wavelength spectrophotometric verification assay.,Supply Chain,Analytical Methods,Minor,1,Low,20-04-2025,08-06-2025,16-07-2025
+CR-2025-0365,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,0,High,04-03-2025,22-03-2025,29-03-2025
+CR-2025-0366,Configuration of access control parameters on the enterprise PLC networks.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,14-02-2025,08-04-2025,23-04-2025
+CR-2025-0367,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Major,0,High,09-10-2025,22-11-2025,06-12-2025
+CR-2025-0368,Installation of interlocking maglock systems on containment airlocks.,Quality Control,Facilities,Critical,3,Medium,31-12-2025,30-04-2026,29-06-2026
+CR-2025-0369,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Assurance,Facilities,Critical,1,High,18-09-2025,15-11-2025,12-12-2025
+CR-2025-0370,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Major,0,Medium,02-05-2025,01-07-2025,21-07-2025
+CR-2025-0371,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Major,0,High,21-10-2025,23-11-2025,12-12-2025
+CR-2025-0372,Installation of an updated vision system camera for cartoon lot verification.,Supply Chain,Packaging Lines,Minor,0,High,10-11-2025,25-11-2025,02-12-2025
+CR-2025-0373,Upgrade of the secondary compressor system on the purified water chiller.,Quality Control,HVAC & Utilities,Minor,0,Medium,27-09-2025,02-11-2025,20-11-2025
+CR-2025-0374,Modification of blister forming forming-die plate to support 10-count layouts.,Supply Chain,Packaging Lines,Minor,1,Medium,06-03-2025,05-04-2025,29-04-2025
+CR-2025-0375,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Major,1,Medium,26-06-2025,14-07-2025,07-09-2025
+CR-2025-0376,Installation of an updated vision system camera for cartoon lot verification.,Information Technology,Packaging Lines,Major,0,High,08-03-2025,14-04-2025,20-04-2025
+CR-2025-0377,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Minor,0,High,20-03-2025,18-04-2025,28-04-2025
+CR-2025-0378,Validation of a new rapid microbiological method for water testing loop A.,Quality Assurance,Analytical Methods,Minor,0,High,27-06-2025,09-08-2025,23-08-2025
+CR-2025-0379,Installation of an automatic visual inspection system on packaging line 3.,Supply Chain,Manufacturing Equipment,Major,2,High,11-04-2025,31-05-2025,25-07-2025
+CR-2025-0380,Migration of data archive servers for the electronic batch record system.,Quality Control,IT & Automation Systems,Minor,0,High,11-11-2025,25-12-2025,01-01-2026
+CR-2025-0381,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Major,1,High,31-10-2025,17-12-2025,15-01-2026
+CR-2025-0382,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Major,2,High,06-11-2025,07-12-2025,01-02-2026
+CR-2025-0383,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Production,Facilities,Major,2,Medium,11-02-2025,23-02-2025,20-04-2025
+CR-2025-0384,Update to material dispensing guidelines across secondary staging areas.,Quality Control,Standard Operating Procedures,Major,1,Medium,20-10-2025,25-11-2025,23-01-2026
+CR-2025-0385,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Information Technology,Manufacturing Equipment,Major,1,Medium,18-11-2025,01-01-2026,08-02-2026
+CR-2025-0386,Implementation of a dual-wavelength spectrophotometric verification assay.,Information Technology,Analytical Methods,Major,2,High,06-05-2025,28-06-2025,12-08-2025
+CR-2025-0387,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Control,HVAC & Utilities,Major,1,High,19-12-2025,01-01-2026,31-01-2026
+CR-2025-0388,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,26-08-2025,18-09-2025,03-10-2025
+CR-2025-0389,Migration of data archive servers for the electronic batch record system.,Regulatory Affairs,IT & Automation Systems,Minor,0,Medium,13-06-2025,08-08-2025,24-08-2025
+CR-2025-0390,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,21-09-2025,05-11-2025,13-11-2025
+CR-2025-0391,Configuration of access control parameters on the enterprise PLC networks.,Quality Control,IT & Automation Systems,Major,2,Low,04-03-2025,31-03-2025,18-05-2025
+CR-2025-0392,Deployment of software patch v4.2 to the SCADA control network system.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,26-01-2025,23-02-2025,12-03-2025
+CR-2025-0393,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Supply Chain,Packaging Lines,Major,1,High,08-05-2025,28-05-2025,07-07-2025
+CR-2025-0394,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Minor,1,Low,08-04-2025,05-06-2025,05-07-2025
+CR-2025-0395,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Major,1,Low,13-09-2025,12-10-2025,02-12-2025
+CR-2025-0396,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Production,Manufacturing Equipment,Critical,0,Medium,16-09-2025,13-12-2025,25-12-2025
+CR-2025-0397,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Assurance,Packaging Lines,Minor,0,Medium,25-01-2025,07-02-2025,21-02-2025
+CR-2025-0398,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Major,1,High,27-05-2025,10-07-2025,30-07-2025
+CR-2025-0399,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Supply Chain,Manufacturing Equipment,Minor,2,Medium,10-03-2025,05-04-2025,18-05-2025
+CR-2025-0400,Installation of online total organic carbon analyzer on the WFI loop pump.,Supply Chain,HVAC & Utilities,Critical,0,Medium,24-01-2025,15-04-2025,21-04-2025
+CR-2025-0401,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Major,0,High,05-07-2025,19-08-2025,02-09-2025
+CR-2025-0402,Rebalancing of differential pressures across cleanroom corridors zone B.,Production,HVAC & Utilities,Minor,0,High,19-08-2025,16-10-2025,29-10-2025
+CR-2025-0403,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Major,0,High,02-03-2025,20-03-2025,28-03-2025
+CR-2025-0404,Re-optimization of gas chromatography parameters for residual solvent analysis.,Engineering & Maintenance,Analytical Methods,Critical,1,High,13-10-2025,28-12-2025,26-01-2026
+CR-2025-0405,Replacement of label application vacuum pads on high speed vial labelers.,Quality Assurance,Packaging Lines,Minor,0,Medium,25-07-2025,05-09-2025,11-09-2025
+CR-2025-0406,Modification of product contact parts on the tablet compression machine tooling.,Production,Manufacturing Equipment,Minor,0,High,01-01-2026,01-02-2026,21-02-2026
+CR-2025-0407,Modification of airflow return duct patterns in the granulation cleanroom.,Regulatory Affairs,HVAC & Utilities,Major,3,High,07-11-2025,19-12-2025,16-01-2026
+CR-2025-0408,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Control,Packaging Lines,Minor,1,High,25-03-2025,29-04-2025,27-06-2025
+CR-2025-0409,Refurbishment of wall panels and ceiling joints within wash bay area.,Information Technology,Facilities,Minor,0,Medium,31-10-2025,01-12-2025,21-12-2025
+CR-2025-0410,Upgrade of serialization printers on bottle capping line 2 setup.,Information Technology,Packaging Lines,Minor,1,Low,01-09-2025,12-09-2025,25-10-2025
+CR-2025-0411,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Major,0,High,02-08-2025,18-09-2025,02-10-2025
+CR-2025-0412,Revision of SOP-QA-045 to implement stricter line clearance validations.,Supply Chain,Standard Operating Procedures,Minor,0,Medium,02-11-2025,12-12-2025,25-12-2025
+CR-2025-0413,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Information Technology,Facilities,Major,3,High,23-10-2025,16-11-2025,09-12-2025
+CR-2025-0414,Modification of airflow return duct patterns in the granulation cleanroom.,Regulatory Affairs,HVAC & Utilities,Minor,0,Medium,26-09-2025,15-11-2025,02-12-2025
+CR-2025-0415,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Major,1,Medium,17-01-2025,04-03-2025,31-03-2025
+CR-2025-0416,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Assurance,Manufacturing Equipment,Major,0,High,10-06-2025,16-07-2025,25-07-2025
+CR-2025-0417,Update to material dispensing guidelines across secondary staging areas.,Engineering & Maintenance,Standard Operating Procedures,Critical,2,Medium,30-07-2025,01-11-2025,30-12-2025
+CR-2025-0418,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Engineering & Maintenance,Facilities,Minor,0,High,28-12-2025,15-01-2026,26-01-2026
+CR-2025-0419,Implementation of a dual-wavelength spectrophotometric verification assay.,Regulatory Affairs,Analytical Methods,Major,0,High,27-09-2025,31-10-2025,15-11-2025
+CR-2025-0420,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Assurance,HVAC & Utilities,Minor,0,High,25-06-2025,08-08-2025,24-08-2025
+CR-2025-0421,Refurbishment of wall panels and ceiling joints within wash bay area.,Information Technology,Facilities,Minor,0,Medium,09-11-2025,19-12-2025,30-12-2025
+CR-2025-0422,Introduction of automatic titration parameters for stability testing protocols.,Quality Assurance,Analytical Methods,Minor,0,High,02-06-2025,26-06-2025,10-07-2025
+CR-2025-0423,Validation of a new rapid microbiological method for water testing loop A.,Supply Chain,Analytical Methods,Minor,0,High,20-12-2025,13-02-2026,05-03-2026
+CR-2025-0424,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Minor,1,Medium,14-10-2025,13-12-2025,19-01-2026
+CR-2025-0425,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Control,Manufacturing Equipment,Major,0,High,13-12-2025,26-01-2026,12-02-2026
+CR-2025-0426,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Minor,2,High,16-03-2025,13-04-2025,05-05-2025
+CR-2025-0427,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Minor,0,High,27-06-2025,04-08-2025,17-08-2025
+CR-2025-0428,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,0,High,14-04-2025,28-05-2025,10-06-2025
+CR-2025-0429,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,12-03-2025,28-03-2025,09-04-2025
+CR-2025-0430,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Assurance,Manufacturing Equipment,Minor,0,High,26-04-2025,15-06-2025,27-06-2025
+CR-2025-0431,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Production,Manufacturing Equipment,Minor,0,High,19-06-2025,13-08-2025,02-09-2025
+CR-2025-0432,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Major,0,Medium,03-01-2025,17-02-2025,27-02-2025
+CR-2025-0433,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,High,02-09-2025,23-10-2025,03-11-2025
+CR-2025-0434,Re-optimization of gas chromatography parameters for residual solvent analysis.,Supply Chain,Analytical Methods,Major,2,High,27-05-2025,17-07-2025,09-08-2025
+CR-2025-0435,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Minor,0,High,29-04-2025,12-06-2025,18-06-2025
+CR-2025-0436,Modification of airflow return duct patterns in the granulation cleanroom.,Quality Assurance,HVAC & Utilities,Major,1,Medium,19-01-2025,23-02-2025,15-04-2025
+CR-2025-0437,Harmonization of environment monitoring step protocols across regional sites.,Quality Assurance,Standard Operating Procedures,Minor,0,Medium,20-01-2025,30-01-2025,13-02-2025
+CR-2025-0438,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Major,1,High,21-06-2025,19-07-2025,06-09-2025
+CR-2025-0439,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Minor,0,Medium,10-09-2025,28-09-2025,17-10-2025
+CR-2025-0440,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Major,0,High,19-06-2025,09-07-2025,28-07-2025
+CR-2025-0441,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Minor,1,High,08-01-2025,06-03-2025,16-04-2025
+CR-2025-0442,Introduction of automatic titration parameters for stability testing protocols.,Supply Chain,Analytical Methods,Minor,1,Low,12-12-2025,08-02-2026,12-03-2026
+CR-2025-0443,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Quality Assurance,Packaging Lines,Minor,0,Medium,07-08-2025,18-09-2025,03-10-2025
+CR-2025-0444,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Minor,0,High,05-04-2025,23-04-2025,13-05-2025
+CR-2025-0445,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,2,Low,14-05-2025,17-06-2025,22-07-2025
+CR-2025-0446,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Major,1,High,18-06-2025,17-07-2025,12-09-2025
+CR-2025-0447,Modification of blister forming forming-die plate to support 10-count layouts.,Information Technology,Packaging Lines,Minor,0,High,14-05-2025,04-07-2025,20-07-2025
+CR-2025-0448,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,Medium,08-12-2025,25-12-2025,13-01-2026
+CR-2025-0449,Configuration of access control parameters on the enterprise PLC networks.,Quality Control,IT & Automation Systems,Major,0,High,18-12-2025,29-01-2026,12-02-2026
+CR-2025-0450,Installation of an automatic visual inspection system on packaging line 3.,Information Technology,Manufacturing Equipment,Minor,1,Low,08-07-2025,26-08-2025,29-09-2025
+CR-2025-0451,Configuration of access control parameters on the enterprise PLC networks.,Quality Assurance,IT & Automation Systems,Major,0,High,20-03-2025,28-04-2025,14-05-2025
+CR-2025-0452,Standardization of analytical instrument calibration intervals and criteria.,Engineering & Maintenance,Standard Operating Procedures,Major,2,High,30-08-2025,27-10-2025,20-12-2025
+CR-2025-0453,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Critical,1,High,07-05-2025,01-09-2025,29-10-2025
+CR-2025-0454,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Supply Chain,Facilities,Major,1,Low,27-09-2025,04-11-2025,27-12-2025
+CR-2025-0455,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Major,1,Medium,16-10-2025,02-11-2025,25-11-2025
+CR-2025-0456,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,1,Medium,14-04-2025,30-05-2025,23-07-2025
+CR-2025-0457,Migration of data archive servers for the electronic batch record system.,Quality Assurance,IT & Automation Systems,Minor,2,High,24-09-2025,01-11-2025,28-11-2025
+CR-2025-0458,Update of user access roles and active directory profiles in Laboratory LIMS.,Information Technology,IT & Automation Systems,Minor,0,Medium,08-09-2025,23-09-2025,12-10-2025
+CR-2025-0459,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Supply Chain,Manufacturing Equipment,Minor,0,Medium,09-03-2025,20-04-2025,08-05-2025
+CR-2025-0460,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Minor,0,High,14-10-2025,22-11-2025,06-12-2025
+CR-2025-0461,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Information Technology,Manufacturing Equipment,Minor,1,High,11-05-2025,21-05-2025,23-06-2025
+CR-2025-0462,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Minor,0,Medium,05-08-2025,06-09-2025,13-09-2025
+CR-2025-0463,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Major,3,High,30-08-2025,11-09-2025,19-10-2025
+CR-2025-0464,Integration of secondary barcode validation architecture into the MES platform.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,25-11-2025,20-01-2026,07-02-2026
+CR-2025-0465,Upgrade of the secondary compressor system on the purified water chiller.,Quality Control,HVAC & Utilities,Minor,0,High,13-07-2025,16-08-2025,23-08-2025
+CR-2025-0466,Standardization of analytical instrument calibration intervals and criteria.,Information Technology,Standard Operating Procedures,Major,0,High,10-03-2025,30-04-2025,16-05-2025
+CR-2025-0467,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Major,0,Medium,21-07-2025,02-09-2025,11-09-2025
+CR-2025-0468,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,High,12-01-2025,10-02-2025,01-03-2025
+CR-2025-0469,Standardization of analytical instrument calibration intervals and criteria.,Information Technology,Standard Operating Procedures,Major,1,High,06-08-2025,19-09-2025,02-11-2025
+CR-2025-0470,Integration of secondary barcode validation architecture into the MES platform.,Supply Chain,IT & Automation Systems,Major,2,High,24-08-2025,25-09-2025,24-10-2025
+CR-2025-0471,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,0,High,17-01-2025,10-03-2025,28-03-2025
+CR-2025-0472,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Regulatory Affairs,Facilities,Minor,1,High,04-05-2025,27-05-2025,20-06-2025
+CR-2025-0473,Modification of blister forming forming-die plate to support 10-count layouts.,Production,Packaging Lines,Minor,0,High,17-08-2025,04-10-2025,10-10-2025
+CR-2025-0474,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Assurance,Standard Operating Procedures,Critical,1,High,25-07-2025,19-10-2025,22-11-2025
+CR-2025-0475,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Minor,2,High,13-03-2025,24-04-2025,01-06-2025
+CR-2025-0476,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Critical,3,High,13-06-2025,24-09-2025,21-11-2025
+CR-2025-0477,Harmonization of environment monitoring step protocols across regional sites.,Supply Chain,Standard Operating Procedures,Major,0,Medium,02-05-2025,31-05-2025,09-06-2025
+CR-2025-0478,Installation of an updated vision system camera for cartoon lot verification.,Information Technology,Packaging Lines,Minor,0,High,31-07-2025,29-08-2025,11-09-2025
+CR-2025-0479,Replacement of label application vacuum pads on high speed vial labelers.,Production,Packaging Lines,Minor,0,High,31-03-2025,20-05-2025,07-06-2025
+CR-2025-0480,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Regulatory Affairs,HVAC & Utilities,Major,1,High,26-06-2025,16-08-2025,29-09-2025
+CR-2025-0481,Upgrade of serialization printers on bottle capping line 2 setup.,Supply Chain,Packaging Lines,Critical,2,High,23-12-2025,16-03-2026,01-05-2026
+CR-2025-0482,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,0,Medium,05-04-2025,02-06-2025,22-06-2025
+CR-2025-0483,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Major,2,Medium,03-06-2025,28-07-2025,26-08-2025
+CR-2025-0484,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Supply Chain,HVAC & Utilities,Major,1,High,15-10-2025,20-11-2025,05-01-2026
+CR-2025-0485,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Major,0,High,18-07-2025,12-08-2025,25-08-2025
+CR-2025-0486,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Assurance,Analytical Methods,Critical,2,Medium,19-08-2025,04-11-2025,29-11-2025
+CR-2025-0487,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Minor,0,Medium,27-01-2025,23-02-2025,12-03-2025
+CR-2025-0488,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Major,1,High,21-01-2025,04-02-2025,08-03-2025
+CR-2025-0489,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Critical,3,High,10-12-2025,21-03-2026,23-04-2026
+CR-2025-0490,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,Medium,05-06-2025,15-06-2025,26-06-2025
+CR-2025-0491,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Assurance,Standard Operating Procedures,Major,2,Medium,03-09-2025,28-09-2025,25-11-2025
+CR-2025-0492,Configuration of access control parameters on the enterprise PLC networks.,Information Technology,IT & Automation Systems,Minor,0,High,03-05-2025,17-06-2025,02-07-2025
+CR-2025-0493,Implementation of a dual-wavelength spectrophotometric verification assay.,Supply Chain,Analytical Methods,Major,1,Medium,27-08-2025,10-10-2025,21-11-2025
+CR-2025-0494,Re-optimization of gas chromatography parameters for residual solvent analysis.,Quality Control,Analytical Methods,Minor,0,Medium,20-09-2025,31-10-2025,19-11-2025
+CR-2025-0495,Relocation of the incoming raw material inspection staging barrier.,Production,Facilities,Minor,0,High,13-06-2025,06-07-2025,22-07-2025
+CR-2025-0496,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Control,HVAC & Utilities,Minor,0,High,16-10-2025,09-11-2025,18-11-2025
+CR-2025-0497,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Minor,0,High,27-10-2025,13-12-2025,31-12-2025
+CR-2025-0498,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Minor,0,High,18-06-2025,12-07-2025,29-07-2025
+CR-2025-0499,Installation of interlocking maglock systems on containment airlocks.,Regulatory Affairs,Facilities,Major,1,Medium,13-09-2025,28-10-2025,08-12-2025
+CR-2025-0500,Relocation of the incoming raw material inspection staging barrier.,Quality Control,Facilities,Minor,1,High,25-11-2025,21-01-2026,13-03-2026
+CR-2025-0501,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,28-03-2025,15-04-2025,05-05-2025
+CR-2025-0502,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Assurance,Packaging Lines,Minor,0,High,26-09-2025,08-10-2025,15-10-2025
+CR-2025-0503,Revision of SOP-QA-045 to implement stricter line clearance validations.,Supply Chain,Standard Operating Procedures,Major,1,High,04-01-2025,09-02-2025,09-03-2025
+CR-2025-0504,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Major,1,Medium,04-02-2025,31-03-2025,29-04-2025
+CR-2025-0505,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Critical,0,High,22-08-2025,07-11-2025,13-11-2025
+CR-2025-0506,Standardization of analytical instrument calibration intervals and criteria.,Regulatory Affairs,Standard Operating Procedures,Minor,1,Medium,05-09-2025,27-10-2025,17-12-2025
+CR-2025-0507,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Production,Manufacturing Equipment,Minor,1,Low,10-10-2025,15-11-2025,05-12-2025
+CR-2025-0508,Upgrade of serialization printers on bottle capping line 2 setup.,Production,Packaging Lines,Critical,0,High,02-10-2025,07-12-2025,12-12-2025
+CR-2025-0509,Relocation of the incoming raw material inspection staging barrier.,Regulatory Affairs,Facilities,Minor,0,High,02-04-2025,18-04-2025,26-04-2025
+CR-2025-0510,Integration of secondary barcode validation architecture into the MES platform.,Regulatory Affairs,IT & Automation Systems,Minor,0,Medium,09-04-2025,28-05-2025,10-06-2025
+CR-2025-0511,Re-optimization of gas chromatography parameters for residual solvent analysis.,Supply Chain,Analytical Methods,Minor,0,Medium,23-07-2025,07-08-2025,23-08-2025
+CR-2025-0512,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,05-05-2025,28-06-2025,10-07-2025
+CR-2025-0513,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Minor,0,Medium,01-12-2025,21-01-2026,27-01-2026
+CR-2025-0514,Upgrade of the secondary compressor system on the purified water chiller.,Production,HVAC & Utilities,Minor,0,Medium,13-07-2025,27-08-2025,16-09-2025
+CR-2025-0515,Revision of SOP-QA-045 to implement stricter line clearance validations.,Production,Standard Operating Procedures,Major,3,High,26-12-2025,15-01-2026,09-02-2026
+CR-2025-0516,Relocation of the incoming raw material inspection staging barrier.,Engineering & Maintenance,Facilities,Minor,0,Medium,27-11-2025,26-01-2026,10-02-2026
+CR-2025-0517,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Regulatory Affairs,Facilities,Minor,1,Medium,28-09-2025,10-10-2025,13-11-2025
+CR-2025-0518,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Major,2,Medium,01-09-2025,28-09-2025,20-10-2025
+CR-2025-0519,Harmonization of environment monitoring step protocols across regional sites.,Production,Standard Operating Procedures,Minor,0,High,06-10-2025,21-11-2025,27-11-2025
+CR-2025-0520,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Assurance,Facilities,Minor,1,Medium,09-01-2025,01-02-2025,30-03-2025
+CR-2025-0521,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Minor,0,High,09-02-2025,10-03-2025,20-03-2025
+CR-2025-0522,Update of user access roles and active directory profiles in Laboratory LIMS.,Regulatory Affairs,IT & Automation Systems,Minor,0,Medium,19-07-2025,10-09-2025,25-09-2025
+CR-2025-0523,Installation of interlocking maglock systems on containment airlocks.,Engineering & Maintenance,Facilities,Major,1,High,19-12-2025,13-02-2026,10-03-2026
+CR-2025-0524,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,28-01-2025,13-02-2025,03-03-2025
+CR-2025-0525,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Assurance,Facilities,Major,0,Medium,24-06-2025,11-08-2025,28-08-2025
+CR-2025-0526,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Supply Chain,Analytical Methods,Minor,0,High,21-11-2025,18-12-2025,06-01-2026
+CR-2025-0527,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Major,0,High,11-10-2025,14-11-2025,02-12-2025
+CR-2025-0528,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Minor,0,High,05-12-2025,08-01-2026,15-01-2026
+CR-2025-0529,Upgrade of serialization printers on bottle capping line 2 setup.,Supply Chain,Packaging Lines,Critical,2,High,07-05-2025,15-06-2025,10-07-2025
+CR-2025-0530,Configuration of access control parameters on the enterprise PLC networks.,Quality Control,IT & Automation Systems,Minor,0,High,31-12-2025,01-03-2026,10-03-2026
+CR-2025-0531,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Major,1,Low,04-07-2025,20-07-2025,14-08-2025
+CR-2025-0532,Implementation of a dual-wavelength spectrophotometric verification assay.,Production,Analytical Methods,Minor,0,Medium,04-07-2025,31-08-2025,13-09-2025
+CR-2025-0533,Deployment of software patch v4.2 to the SCADA control network system.,Production,IT & Automation Systems,Minor,0,High,06-04-2025,13-05-2025,01-06-2025
+CR-2025-0534,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Major,0,High,28-07-2025,13-08-2025,18-08-2025
+CR-2025-0535,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Minor,0,High,17-02-2025,06-04-2025,21-04-2025
+CR-2025-0536,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Supply Chain,HVAC & Utilities,Minor,0,High,30-05-2025,05-07-2025,22-07-2025
+CR-2025-0537,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Minor,1,High,05-05-2025,20-06-2025,12-08-2025
+CR-2025-0538,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Major,0,High,28-03-2025,15-04-2025,28-04-2025
+CR-2025-0539,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,3,Medium,16-03-2025,30-03-2025,29-04-2025
+CR-2025-0540,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Major,1,High,03-06-2025,13-07-2025,06-08-2025
+CR-2025-0541,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Minor,0,High,17-11-2025,28-12-2025,08-01-2026
+CR-2025-0542,Modification of product contact parts on the tablet compression machine tooling.,Engineering & Maintenance,Manufacturing Equipment,Critical,2,High,05-06-2025,05-07-2025,19-08-2025
+CR-2025-0543,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Control,Facilities,Minor,0,High,14-07-2025,14-08-2025,02-09-2025
+CR-2025-0544,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Control,HVAC & Utilities,Minor,0,Medium,11-03-2025,09-04-2025,24-04-2025
+CR-2025-0545,Update to material dispensing guidelines across secondary staging areas.,Regulatory Affairs,Standard Operating Procedures,Major,2,Medium,03-09-2025,03-10-2025,03-11-2025
+CR-2025-0546,Re-optimization of gas chromatography parameters for residual solvent analysis.,Engineering & Maintenance,Analytical Methods,Minor,0,High,22-12-2025,10-02-2026,02-03-2026
+CR-2025-0547,Installation of interlocking maglock systems on containment airlocks.,Regulatory Affairs,Facilities,Critical,2,Low,16-06-2025,02-09-2025,09-10-2025
+CR-2025-0548,Relocation of the incoming raw material inspection staging barrier.,Supply Chain,Facilities,Major,1,High,06-07-2025,23-07-2025,17-09-2025
+CR-2025-0549,Replacement of label application vacuum pads on high speed vial labelers.,Quality Assurance,Packaging Lines,Minor,0,Medium,03-04-2025,26-05-2025,31-05-2025
+CR-2025-0550,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,1,Medium,13-08-2025,10-09-2025,04-10-2025
+CR-2025-0551,Relocation of the incoming raw material inspection staging barrier.,Supply Chain,Facilities,Minor,0,High,11-12-2025,21-01-2026,30-01-2026
+CR-2025-0552,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Minor,1,High,10-05-2025,01-07-2025,30-07-2025
+CR-2025-0553,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Major,0,High,07-02-2025,17-03-2025,06-04-2025
+CR-2025-0554,Rebalancing of differential pressures across cleanroom corridors zone B.,Regulatory Affairs,HVAC & Utilities,Minor,0,Medium,17-09-2025,10-11-2025,28-11-2025
+CR-2025-0555,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Critical,3,High,26-12-2025,03-04-2026,31-05-2026
+CR-2025-0556,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Major,2,High,08-05-2025,29-06-2025,10-08-2025
+CR-2025-0557,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Minor,0,Medium,23-01-2025,10-03-2025,27-03-2025
+CR-2025-0558,Implementation of a dual-wavelength spectrophotometric verification assay.,Supply Chain,Analytical Methods,Major,1,Medium,24-02-2025,06-03-2025,01-04-2025
+CR-2025-0559,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Control,IT & Automation Systems,Major,0,High,23-09-2025,07-11-2025,19-11-2025
+CR-2025-0560,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Minor,0,High,26-08-2025,24-10-2025,02-11-2025
+CR-2025-0561,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Minor,1,Low,23-02-2025,23-03-2025,08-05-2025
+CR-2025-0562,Modification of product contact parts on the tablet compression machine tooling.,Production,Manufacturing Equipment,Major,2,High,28-06-2025,27-07-2025,06-09-2025
+CR-2025-0563,Installation of interlocking maglock systems on containment airlocks.,Engineering & Maintenance,Facilities,Critical,2,High,24-09-2025,24-12-2025,04-02-2026
+CR-2025-0564,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Engineering & Maintenance,Manufacturing Equipment,Major,1,High,23-12-2025,30-01-2026,11-03-2026
+CR-2025-0565,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Production,Analytical Methods,Minor,0,High,30-12-2025,16-01-2026,21-01-2026
+CR-2025-0566,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Supply Chain,Analytical Methods,Minor,0,High,13-12-2025,02-01-2026,14-01-2026
+CR-2025-0567,Update of user access roles and active directory profiles in Laboratory LIMS.,Regulatory Affairs,IT & Automation Systems,Critical,3,High,23-03-2025,03-06-2025,28-07-2025
+CR-2025-0568,Modification of airflow return duct patterns in the granulation cleanroom.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,27-07-2025,15-09-2025,25-09-2025
+CR-2025-0569,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Minor,0,High,22-07-2025,02-08-2025,13-08-2025
+CR-2025-0570,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Minor,0,Medium,19-07-2025,29-07-2025,09-08-2025
+CR-2025-0571,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Assurance,Analytical Methods,Minor,0,High,23-10-2025,08-11-2025,18-11-2025
+CR-2025-0572,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Minor,3,High,23-08-2025,09-09-2025,15-10-2025
+CR-2025-0573,Relocation of the incoming raw material inspection staging barrier.,Information Technology,Facilities,Minor,2,Medium,28-09-2025,17-11-2025,27-12-2025
+CR-2025-0574,Rebalancing of differential pressures across cleanroom corridors zone B.,Regulatory Affairs,HVAC & Utilities,Minor,0,High,20-07-2025,05-09-2025,13-09-2025
+CR-2025-0575,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,0,High,13-11-2025,04-12-2025,18-12-2025
+CR-2025-0576,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,3,High,11-12-2025,29-12-2025,07-02-2026
+CR-2025-0577,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Major,0,Medium,01-03-2025,22-03-2025,07-04-2025
+CR-2025-0578,Update of user access roles and active directory profiles in Laboratory LIMS.,Information Technology,IT & Automation Systems,Major,0,High,18-07-2025,23-08-2025,01-09-2025
+CR-2025-0579,Upgrade of the secondary compressor system on the purified water chiller.,Regulatory Affairs,HVAC & Utilities,Minor,0,Medium,06-04-2025,17-05-2025,27-05-2025
+CR-2025-0580,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,28-05-2025,15-06-2025,25-06-2025
+CR-2025-0581,Relocation of the incoming raw material inspection staging barrier.,Quality Control,Facilities,Major,1,Medium,14-11-2025,27-11-2025,08-01-2026
+CR-2025-0582,Modification of airflow return duct patterns in the granulation cleanroom.,Production,HVAC & Utilities,Minor,0,High,10-04-2025,14-05-2025,03-06-2025
+CR-2025-0583,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,High,01-08-2025,25-09-2025,14-10-2025
+CR-2025-0584,Deployment of software patch v4.2 to the SCADA control network system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,17-10-2025,28-10-2025,09-11-2025
+CR-2025-0585,Installation of an automatic visual inspection system on packaging line 3.,Quality Control,Manufacturing Equipment,Minor,2,High,26-04-2025,09-06-2025,17-07-2025
+CR-2025-0586,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Major,1,Low,17-10-2025,13-12-2025,02-02-2026
+CR-2025-0587,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,0,High,21-10-2025,07-11-2025,20-11-2025
+CR-2025-0588,Upgrade of serialization printers on bottle capping line 2 setup.,Supply Chain,Packaging Lines,Major,0,High,05-10-2025,02-12-2025,08-12-2025
+CR-2025-0589,Comprehensive overhaul of cleaning verification sampling procedure plans.,Supply Chain,Standard Operating Procedures,Minor,0,High,07-10-2025,30-10-2025,17-11-2025
+CR-2025-0590,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Minor,0,High,02-06-2025,14-06-2025,03-07-2025
+CR-2025-0591,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Minor,1,Medium,13-08-2025,30-08-2025,04-10-2025
+CR-2025-0592,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Critical,1,Medium,19-12-2025,03-03-2026,01-05-2026
+CR-2025-0593,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,0,High,12-11-2025,30-11-2025,11-12-2025
+CR-2025-0594,Deployment of software patch v4.2 to the SCADA control network system.,Supply Chain,IT & Automation Systems,Major,2,High,19-10-2025,20-11-2025,13-01-2026
+CR-2025-0595,Replacement of label application vacuum pads on high speed vial labelers.,Quality Control,Packaging Lines,Minor,0,Medium,28-03-2025,27-04-2025,11-05-2025
+CR-2025-0596,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Control,Packaging Lines,Major,1,Medium,21-09-2025,13-11-2025,09-12-2025
+CR-2025-0597,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Minor,0,High,31-01-2025,27-02-2025,08-03-2025
+CR-2025-0598,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Major,1,High,08-05-2025,27-05-2025,06-07-2025
+CR-2025-0599,Configuration of access control parameters on the enterprise PLC networks.,Supply Chain,IT & Automation Systems,Minor,0,High,08-09-2025,27-09-2025,10-10-2025
+CR-2025-0600,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Minor,0,High,20-08-2025,03-09-2025,10-09-2025
+CR-2025-0601,Upgrade of serialization printers on bottle capping line 2 setup.,Engineering & Maintenance,Packaging Lines,Critical,1,Medium,22-12-2025,09-03-2026,27-04-2026
+CR-2025-0602,Introduction of automatic titration parameters for stability testing protocols.,Engineering & Maintenance,Analytical Methods,Minor,0,High,02-01-2025,02-03-2025,09-03-2025
+CR-2025-0603,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Major,0,High,02-02-2025,03-04-2025,20-04-2025
+CR-2025-0604,Modification of airflow return duct patterns in the granulation cleanroom.,Quality Assurance,HVAC & Utilities,Minor,0,Medium,11-09-2025,08-10-2025,23-10-2025
+CR-2025-0605,Re-optimization of gas chromatography parameters for residual solvent analysis.,Supply Chain,Analytical Methods,Minor,0,High,08-10-2025,23-11-2025,02-12-2025
+CR-2025-0606,Relocation of the incoming raw material inspection staging barrier.,Regulatory Affairs,Facilities,Critical,2,High,25-06-2025,20-10-2025,12-11-2025
+CR-2025-0607,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Production,Manufacturing Equipment,Major,0,High,09-01-2025,26-01-2025,05-02-2025
+CR-2025-0608,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Engineering & Maintenance,HVAC & Utilities,Minor,0,Medium,08-08-2025,30-08-2025,08-09-2025
+CR-2025-0609,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Major,0,High,21-05-2025,05-06-2025,21-06-2025
+CR-2025-0610,Installation of an automatic visual inspection system on packaging line 3.,Quality Control,Manufacturing Equipment,Critical,1,Medium,07-12-2025,30-03-2026,29-04-2026
+CR-2025-0611,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Critical,1,Medium,25-12-2025,22-02-2026,10-04-2026
+CR-2025-0612,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Major,1,Medium,01-01-2025,24-01-2025,15-03-2025
+CR-2025-0613,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Minor,1,High,26-04-2025,08-06-2025,26-07-2025
+CR-2025-0614,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Minor,0,High,03-03-2025,09-04-2025,18-04-2025
+CR-2025-0615,Modification of product contact parts on the tablet compression machine tooling.,Engineering & Maintenance,Manufacturing Equipment,Minor,1,Medium,16-07-2025,31-07-2025,26-08-2025
+CR-2025-0616,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Minor,0,High,03-06-2025,21-06-2025,08-07-2025
+CR-2025-0617,Installation of interlocking maglock systems on containment airlocks.,Supply Chain,Facilities,Major,0,Medium,25-11-2025,17-01-2026,26-01-2026
+CR-2025-0618,Replacement of label application vacuum pads on high speed vial labelers.,Production,Packaging Lines,Major,1,Medium,05-01-2025,23-02-2025,25-03-2025
+CR-2025-0619,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Critical,2,High,18-11-2025,06-01-2026,21-02-2026
+CR-2025-0620,Comprehensive overhaul of cleaning verification sampling procedure plans.,Regulatory Affairs,Standard Operating Procedures,Minor,0,Medium,22-04-2025,07-05-2025,15-05-2025
+CR-2025-0621,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Assurance,Facilities,Major,0,Medium,29-10-2025,24-12-2025,10-01-2026
+CR-2025-0622,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Minor,2,Low,13-03-2025,07-04-2025,14-05-2025
+CR-2025-0623,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Minor,0,High,11-10-2025,28-11-2025,12-12-2025
+CR-2025-0624,Revision of SOP-QA-045 to implement stricter line clearance validations.,Supply Chain,Standard Operating Procedures,Major,0,Medium,04-12-2025,02-01-2026,13-01-2026
+CR-2025-0625,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Minor,0,Medium,07-04-2025,03-06-2025,20-06-2025
+CR-2025-0626,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Minor,0,High,03-05-2025,13-06-2025,30-06-2025
+CR-2025-0627,Configuration of access control parameters on the enterprise PLC networks.,Production,IT & Automation Systems,Minor,0,High,23-11-2025,10-01-2026,17-01-2026
+CR-2025-0628,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Major,1,Medium,12-06-2025,30-06-2025,13-08-2025
+CR-2025-0629,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Minor,0,High,04-08-2025,06-09-2025,16-09-2025
+CR-2025-0630,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Supply Chain,HVAC & Utilities,Minor,3,Medium,09-01-2025,25-02-2025,21-03-2025
+CR-2025-0631,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Minor,0,High,21-01-2025,03-02-2025,20-02-2025
+CR-2025-0632,Introduction of automatic titration parameters for stability testing protocols.,Regulatory Affairs,Analytical Methods,Minor,0,High,01-08-2025,07-09-2025,24-09-2025
+CR-2025-0633,Standardization of analytical instrument calibration intervals and criteria.,Production,Standard Operating Procedures,Major,0,High,03-10-2025,21-11-2025,30-11-2025
+CR-2025-0634,Installation of an automatic visual inspection system on packaging line 3.,Quality Control,Manufacturing Equipment,Major,0,High,10-02-2025,24-03-2025,04-04-2025
+CR-2025-0635,Update of user access roles and active directory profiles in Laboratory LIMS.,Supply Chain,IT & Automation Systems,Major,1,High,17-06-2025,22-07-2025,17-09-2025
+CR-2025-0636,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Information Technology,Facilities,Minor,1,Low,08-06-2025,01-08-2025,17-09-2025
+CR-2025-0637,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Minor,0,High,30-01-2025,24-02-2025,03-03-2025
+CR-2025-0638,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Engineering & Maintenance,Manufacturing Equipment,Major,1,Low,10-11-2025,28-12-2025,20-01-2026
+CR-2025-0639,Update to material dispensing guidelines across secondary staging areas.,Quality Control,Standard Operating Procedures,Minor,1,Medium,03-03-2025,13-03-2025,10-04-2025
+CR-2025-0640,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Major,0,High,12-09-2025,14-10-2025,27-10-2025
+CR-2025-0641,Validation of a new rapid microbiological method for water testing loop A.,Quality Assurance,Analytical Methods,Major,1,High,18-05-2025,13-07-2025,09-08-2025
+CR-2025-0642,Installation of an automatic visual inspection system on packaging line 3.,Supply Chain,Manufacturing Equipment,Minor,0,Medium,08-08-2025,04-09-2025,11-09-2025
+CR-2025-0643,Standardization of analytical instrument calibration intervals and criteria.,Quality Control,Standard Operating Procedures,Major,1,High,18-11-2025,02-12-2025,22-01-2026
+CR-2025-0644,Upgrade of serialization printers on bottle capping line 2 setup.,Engineering & Maintenance,Packaging Lines,Minor,0,High,29-01-2025,11-03-2025,21-03-2025
+CR-2025-0645,Migration of data archive servers for the electronic batch record system.,Quality Control,IT & Automation Systems,Major,1,Medium,22-02-2025,09-04-2025,06-05-2025
+CR-2025-0646,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Major,1,High,02-01-2025,14-01-2025,03-02-2025
+CR-2025-0647,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Assurance,Manufacturing Equipment,Minor,0,High,06-07-2025,09-08-2025,18-08-2025
+CR-2025-0648,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Assurance,Facilities,Minor,0,Medium,11-10-2025,05-12-2025,23-12-2025
+CR-2025-0649,Validation of a new rapid microbiological method for water testing loop A.,Quality Assurance,Analytical Methods,Major,0,High,02-08-2025,27-09-2025,12-10-2025
+CR-2025-0650,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Minor,0,High,20-10-2025,22-11-2025,30-11-2025
+CR-2025-0651,Revision of SOP-QA-045 to implement stricter line clearance validations.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,02-04-2025,26-04-2025,02-05-2025
+CR-2025-0652,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Engineering & Maintenance,Manufacturing Equipment,Major,3,Low,25-05-2025,23-07-2025,31-08-2025
+CR-2025-0653,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Control,Manufacturing Equipment,Major,1,High,22-08-2025,01-09-2025,14-10-2025
+CR-2025-0654,Introduction of automatic titration parameters for stability testing protocols.,Quality Assurance,Analytical Methods,Major,0,High,05-06-2025,01-08-2025,13-08-2025
+CR-2025-0655,Introduction of automatic titration parameters for stability testing protocols.,Engineering & Maintenance,Analytical Methods,Major,1,High,10-09-2025,08-11-2025,10-12-2025
+CR-2025-0656,Installation of an updated vision system camera for cartoon lot verification.,Information Technology,Packaging Lines,Major,0,High,19-03-2025,29-03-2025,16-04-2025
+CR-2025-0657,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Minor,0,High,27-06-2025,16-08-2025,21-08-2025
+CR-2025-0658,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Major,1,High,07-06-2025,23-06-2025,26-07-2025
+CR-2025-0659,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Minor,1,Low,09-09-2025,22-09-2025,21-10-2025
+CR-2025-0660,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Minor,0,Medium,23-01-2025,16-02-2025,06-03-2025
+CR-2025-0661,Implementation of a dual-wavelength spectrophotometric verification assay.,Information Technology,Analytical Methods,Minor,0,Medium,13-02-2025,01-04-2025,09-04-2025
+CR-2025-0662,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,08-02-2025,27-03-2025,02-04-2025
+CR-2025-0663,Update to material dispensing guidelines across secondary staging areas.,Engineering & Maintenance,Standard Operating Procedures,Major,0,High,02-05-2025,30-05-2025,12-06-2025
+CR-2025-0664,Implementation of a dual-wavelength spectrophotometric verification assay.,Supply Chain,Analytical Methods,Major,0,Medium,25-12-2025,20-02-2026,07-03-2026
+CR-2025-0665,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Major,1,High,30-04-2025,14-05-2025,15-06-2025
+CR-2025-0666,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Major,1,Low,25-02-2025,16-03-2025,11-04-2025
+CR-2025-0667,Upgrade of the secondary compressor system on the purified water chiller.,Quality Assurance,HVAC & Utilities,Minor,0,High,10-06-2025,16-07-2025,24-07-2025
+CR-2025-0668,Validation of a new rapid microbiological method for water testing loop A.,Regulatory Affairs,Analytical Methods,Minor,1,Low,20-08-2025,18-09-2025,06-11-2025
+CR-2025-0669,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Quality Control,Facilities,Minor,0,Medium,16-02-2025,08-03-2025,22-03-2025
+CR-2025-0670,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Major,0,High,21-01-2025,13-02-2025,28-02-2025
+CR-2025-0671,Modification of product contact parts on the tablet compression machine tooling.,Quality Assurance,Manufacturing Equipment,Minor,1,High,02-07-2025,06-08-2025,27-09-2025
+CR-2025-0672,Harmonization of environment monitoring step protocols across regional sites.,Production,Standard Operating Procedures,Minor,0,High,14-05-2025,04-06-2025,09-06-2025
+CR-2025-0673,Relocation of the incoming raw material inspection staging barrier.,Engineering & Maintenance,Facilities,Minor,0,Medium,12-10-2025,08-12-2025,20-12-2025
+CR-2025-0674,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Major,1,Low,13-03-2025,30-03-2025,19-04-2025
+CR-2025-0675,Installation of interlocking maglock systems on containment airlocks.,Production,Facilities,Critical,1,High,08-03-2025,02-05-2025,16-06-2025
+CR-2025-0676,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Minor,2,Medium,26-10-2025,12-12-2025,17-01-2026
+CR-2025-0677,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Supply Chain,Manufacturing Equipment,Minor,0,Medium,03-02-2025,25-02-2025,16-03-2025
+CR-2025-0678,Deployment of software patch v4.2 to the SCADA control network system.,Supply Chain,IT & Automation Systems,Major,3,High,19-06-2025,06-07-2025,28-07-2025
+CR-2025-0679,Modification of product contact parts on the tablet compression machine tooling.,Engineering & Maintenance,Manufacturing Equipment,Major,0,High,21-10-2025,27-11-2025,14-12-2025
+CR-2025-0680,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,16-12-2025,22-01-2026,01-02-2026
+CR-2025-0681,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Major,1,High,21-05-2025,17-06-2025,04-08-2025
+CR-2025-0682,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Assurance,Manufacturing Equipment,Minor,0,Medium,14-11-2025,02-01-2026,14-01-2026
+CR-2025-0683,Implementation of a dual-wavelength spectrophotometric verification assay.,Information Technology,Analytical Methods,Minor,0,Medium,30-07-2025,13-09-2025,03-10-2025
+CR-2025-0684,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Minor,0,High,16-07-2025,03-08-2025,21-08-2025
+CR-2025-0685,Standardization of analytical instrument calibration intervals and criteria.,Quality Assurance,Standard Operating Procedures,Minor,1,Low,08-05-2025,27-06-2025,20-08-2025
+CR-2025-0686,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Supply Chain,Manufacturing Equipment,Major,0,High,01-01-2026,02-02-2026,22-02-2026
+CR-2025-0687,Relocation of the incoming raw material inspection staging barrier.,Regulatory Affairs,Facilities,Major,0,High,26-06-2025,11-08-2025,26-08-2025
+CR-2025-0688,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Minor,0,Medium,14-01-2025,13-02-2025,25-02-2025
+CR-2025-0689,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Minor,0,Medium,30-01-2025,11-03-2025,27-03-2025
+CR-2025-0690,Installation of an updated vision system camera for cartoon lot verification.,Supply Chain,Packaging Lines,Minor,0,High,23-03-2025,08-04-2025,20-04-2025
+CR-2025-0691,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Major,0,High,01-10-2025,30-11-2025,06-12-2025
+CR-2025-0692,Update of user access roles and active directory profiles in Laboratory LIMS.,Supply Chain,IT & Automation Systems,Major,2,Medium,18-07-2025,19-08-2025,19-09-2025
+CR-2025-0693,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,2,High,12-06-2025,08-08-2025,19-09-2025
+CR-2025-0694,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Major,0,High,18-10-2025,03-12-2025,12-12-2025
+CR-2025-0695,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Minor,1,Low,05-10-2025,03-11-2025,04-12-2025
+CR-2025-0696,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,29-01-2025,22-02-2025,06-03-2025
+CR-2025-0697,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Production,Packaging Lines,Major,1,High,01-01-2025,01-02-2025,01-04-2025
+CR-2025-0698,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Critical,1,High,24-06-2025,15-08-2025,24-09-2025
+CR-2025-0699,Modification of product contact parts on the tablet compression machine tooling.,Production,Manufacturing Equipment,Minor,0,Medium,28-10-2025,22-12-2025,31-12-2025
+CR-2025-0700,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Major,0,Medium,06-07-2025,20-07-2025,05-08-2025
+CR-2025-0701,Comprehensive overhaul of cleaning verification sampling procedure plans.,Information Technology,Standard Operating Procedures,Critical,0,High,28-10-2025,09-12-2025,24-12-2025
+CR-2025-0702,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Major,0,Medium,22-03-2025,17-05-2025,04-06-2025
+CR-2025-0703,Comprehensive overhaul of cleaning verification sampling procedure plans.,Supply Chain,Standard Operating Procedures,Major,1,Low,29-11-2025,29-12-2025,29-01-2026
+CR-2025-0704,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Critical,1,High,02-07-2025,29-08-2025,25-10-2025
+CR-2025-0705,Configuration of access control parameters on the enterprise PLC networks.,Supply Chain,IT & Automation Systems,Minor,0,Medium,07-06-2025,02-08-2025,16-08-2025
+CR-2025-0706,Deployment of software patch v4.2 to the SCADA control network system.,Quality Assurance,IT & Automation Systems,Minor,0,High,26-12-2025,10-02-2026,27-02-2026
+CR-2025-0707,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Minor,0,Medium,17-01-2025,07-02-2025,22-02-2025
+CR-2025-0708,Installation of an updated vision system camera for cartoon lot verification.,Supply Chain,Packaging Lines,Minor,1,Low,24-11-2025,09-01-2026,04-02-2026
+CR-2025-0709,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Critical,2,Medium,09-02-2025,10-04-2025,22-05-2025
+CR-2025-0710,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,0,Medium,29-12-2025,19-02-2026,06-03-2026
+CR-2025-0711,Installation of an automatic visual inspection system on packaging line 3.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,18-04-2025,13-05-2025,20-05-2025
+CR-2025-0712,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Minor,1,Medium,01-01-2025,14-01-2025,27-02-2025
+CR-2025-0713,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,0,Medium,27-03-2025,02-05-2025,22-05-2025
+CR-2025-0714,Introduction of automatic titration parameters for stability testing protocols.,Engineering & Maintenance,Analytical Methods,Major,1,Medium,12-07-2025,28-07-2025,16-09-2025
+CR-2025-0715,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Major,0,High,30-11-2025,27-01-2026,08-02-2026
+CR-2025-0716,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Assurance,HVAC & Utilities,Major,0,High,18-01-2025,15-02-2025,20-02-2025
+CR-2025-0717,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Minor,0,Medium,07-02-2025,10-03-2025,20-03-2025
+CR-2025-0718,Deployment of software patch v4.2 to the SCADA control network system.,Engineering & Maintenance,IT & Automation Systems,Minor,0,Medium,08-10-2025,23-10-2025,07-11-2025
+CR-2025-0719,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Regulatory Affairs,Packaging Lines,Minor,0,High,27-12-2025,07-01-2026,25-01-2026
+CR-2025-0720,Update of user access roles and active directory profiles in Laboratory LIMS.,Information Technology,IT & Automation Systems,Minor,0,High,11-08-2025,31-08-2025,06-09-2025
+CR-2025-0721,Validation of a new rapid microbiological method for water testing loop A.,Production,Analytical Methods,Major,0,Medium,08-04-2025,14-05-2025,27-05-2025
+CR-2025-0722,Re-optimization of gas chromatography parameters for residual solvent analysis.,Information Technology,Analytical Methods,Major,3,High,02-05-2025,18-05-2025,10-06-2025
+CR-2025-0723,Replacement of label application vacuum pads on high speed vial labelers.,Engineering & Maintenance,Packaging Lines,Major,1,High,09-09-2025,28-09-2025,21-10-2025
+CR-2025-0724,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Minor,0,Medium,14-02-2025,14-03-2025,03-04-2025
+CR-2025-0725,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Quality Assurance,Manufacturing Equipment,Minor,0,Medium,16-04-2025,06-05-2025,20-05-2025
+CR-2025-0726,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Major,1,High,07-06-2025,06-08-2025,20-09-2025
+CR-2025-0727,Installation of online total organic carbon analyzer on the WFI loop pump.,Engineering & Maintenance,HVAC & Utilities,Major,0,High,16-02-2025,08-04-2025,25-04-2025
+CR-2025-0728,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,0,High,09-07-2025,30-07-2025,18-08-2025
+CR-2025-0729,Implementation of a dual-wavelength spectrophotometric verification assay.,Production,Analytical Methods,Major,2,Low,27-08-2025,22-09-2025,26-10-2025
+CR-2025-0730,Introduction of automatic titration parameters for stability testing protocols.,Supply Chain,Analytical Methods,Major,1,Medium,01-02-2025,20-02-2025,18-03-2025
+CR-2025-0731,Harmonization of environment monitoring step protocols across regional sites.,Production,Standard Operating Procedures,Minor,1,Low,05-10-2025,10-11-2025,06-01-2026
+CR-2025-0732,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Assurance,Packaging Lines,Major,0,High,18-07-2025,30-08-2025,17-09-2025
+CR-2025-0733,Comprehensive overhaul of cleaning verification sampling procedure plans.,Regulatory Affairs,Standard Operating Procedures,Minor,0,Medium,21-10-2025,15-11-2025,05-12-2025
+CR-2025-0734,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Minor,1,Low,01-01-2026,13-01-2026,06-03-2026
+CR-2025-0735,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Minor,0,High,13-12-2025,31-01-2026,09-02-2026
+CR-2025-0736,Relocation of the incoming raw material inspection staging barrier.,Production,Facilities,Critical,2,High,30-03-2025,20-05-2025,22-06-2025
+CR-2025-0737,Integration of secondary barcode validation architecture into the MES platform.,Supply Chain,IT & Automation Systems,Minor,1,Low,22-01-2025,28-02-2025,25-03-2025
+CR-2025-0738,Modification of airflow return duct patterns in the granulation cleanroom.,Information Technology,HVAC & Utilities,Major,3,High,18-11-2025,07-12-2025,03-02-2026
+CR-2025-0739,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Major,1,High,14-02-2025,20-03-2025,14-05-2025
+CR-2025-0740,Upgrade of serialization printers on bottle capping line 2 setup.,Engineering & Maintenance,Packaging Lines,Minor,0,Medium,22-05-2025,04-07-2025,23-07-2025
+CR-2025-0741,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Major,0,High,28-10-2025,10-12-2025,28-12-2025
+CR-2025-0742,Modification of airflow return duct patterns in the granulation cleanroom.,Production,HVAC & Utilities,Minor,0,High,17-03-2025,02-05-2025,10-05-2025
+CR-2025-0743,Modification of blister forming forming-die plate to support 10-count layouts.,Production,Packaging Lines,Minor,0,High,27-05-2025,10-07-2025,26-07-2025
+CR-2025-0744,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Minor,0,Medium,02-12-2025,12-01-2026,01-02-2026
+CR-2025-0745,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Critical,2,Medium,26-07-2025,12-09-2025,10-11-2025
+CR-2025-0746,Comprehensive overhaul of cleaning verification sampling procedure plans.,Regulatory Affairs,Standard Operating Procedures,Major,0,Medium,20-01-2025,24-02-2025,11-03-2025
+CR-2025-0747,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,High,01-09-2025,28-09-2025,14-10-2025
+CR-2025-0748,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Minor,3,High,09-06-2025,06-07-2025,26-08-2025
+CR-2025-0749,Revision of SOP-QA-045 to implement stricter line clearance validations.,Supply Chain,Standard Operating Procedures,Major,0,High,27-04-2025,15-05-2025,29-05-2025
+CR-2025-0750,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Major,0,High,18-05-2025,13-07-2025,31-07-2025
+CR-2025-0751,Revision of SOP-QA-045 to implement stricter line clearance validations.,Regulatory Affairs,Standard Operating Procedures,Minor,1,Low,07-04-2025,15-05-2025,17-06-2025
+CR-2025-0752,Upgrade of the secondary compressor system on the purified water chiller.,Supply Chain,HVAC & Utilities,Major,1,Medium,22-09-2025,25-10-2025,17-11-2025
+CR-2025-0753,Installation of interlocking maglock systems on containment airlocks.,Regulatory Affairs,Facilities,Minor,0,High,03-02-2025,04-03-2025,21-03-2025
+CR-2025-0754,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Minor,0,Medium,19-10-2025,30-10-2025,09-11-2025
+CR-2025-0755,Installation of interlocking maglock systems on containment airlocks.,Quality Assurance,Facilities,Major,1,High,30-01-2025,24-02-2025,18-03-2025
+CR-2025-0756,Installation of an automatic visual inspection system on packaging line 3.,Engineering & Maintenance,Manufacturing Equipment,Major,1,High,27-12-2025,18-01-2026,24-02-2026
+CR-2025-0757,Relocation of the incoming raw material inspection staging barrier.,Quality Control,Facilities,Minor,0,High,16-09-2025,21-10-2025,29-10-2025
+CR-2025-0758,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Minor,0,High,10-07-2025,20-08-2025,08-09-2025
+CR-2025-0759,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Critical,2,Medium,28-10-2025,05-02-2026,19-03-2026
+CR-2025-0760,Migration of data archive servers for the electronic batch record system.,Quality Control,IT & Automation Systems,Minor,0,Medium,19-12-2025,03-01-2026,17-01-2026
+CR-2025-0761,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Production,HVAC & Utilities,Minor,0,High,25-03-2025,10-05-2025,21-05-2025
+CR-2025-0762,Integration of secondary barcode validation architecture into the MES platform.,Supply Chain,IT & Automation Systems,Minor,0,High,13-12-2025,05-01-2026,18-01-2026
+CR-2025-0763,Rebalancing of differential pressures across cleanroom corridors zone B.,Information Technology,HVAC & Utilities,Critical,1,High,11-01-2025,08-05-2025,28-05-2025
+CR-2025-0764,Integration of secondary barcode validation architecture into the MES platform.,Engineering & Maintenance,IT & Automation Systems,Minor,0,Medium,04-11-2025,14-11-2025,26-11-2025
+CR-2025-0765,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Control,Packaging Lines,Minor,0,High,31-12-2025,24-02-2026,09-03-2026
+CR-2025-0766,Installation of online total organic carbon analyzer on the WFI loop pump.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,24-08-2025,19-09-2025,30-09-2025
+CR-2025-0767,Introduction of automatic titration parameters for stability testing protocols.,Engineering & Maintenance,Analytical Methods,Minor,0,High,16-11-2025,21-12-2025,29-12-2025
+CR-2025-0768,Upgrade of serialization printers on bottle capping line 2 setup.,Production,Packaging Lines,Major,0,High,15-10-2025,05-12-2025,19-12-2025
+CR-2025-0769,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Critical,0,High,04-09-2025,12-10-2025,27-10-2025
+CR-2025-0770,Harmonization of environment monitoring step protocols across regional sites.,Quality Control,Standard Operating Procedures,Major,0,High,22-05-2025,17-06-2025,01-07-2025
+CR-2025-0771,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,04-05-2025,17-05-2025,03-06-2025
+CR-2025-0772,Validation of a new rapid microbiological method for water testing loop A.,Information Technology,Analytical Methods,Major,1,Low,14-01-2025,06-03-2025,26-04-2025
+CR-2025-0773,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,0,High,27-07-2025,30-08-2025,05-09-2025
+CR-2025-0774,Standardization of analytical instrument calibration intervals and criteria.,Regulatory Affairs,Standard Operating Procedures,Minor,1,Low,08-04-2025,09-05-2025,12-06-2025
+CR-2025-0775,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Information Technology,Packaging Lines,Major,1,High,10-12-2025,11-01-2026,04-03-2026
+CR-2025-0776,Installation of interlocking maglock systems on containment airlocks.,Quality Control,Facilities,Critical,0,Medium,03-12-2025,14-03-2026,24-03-2026
+CR-2025-0777,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Major,0,High,07-03-2025,03-05-2025,16-05-2025
+CR-2025-0778,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Information Technology,Facilities,Minor,0,Medium,04-04-2025,27-05-2025,11-06-2025
+CR-2025-0779,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Minor,0,High,01-07-2025,25-07-2025,08-08-2025
+CR-2025-0780,Refurbishment of wall panels and ceiling joints within wash bay area.,Engineering & Maintenance,Facilities,Minor,0,High,10-07-2025,05-08-2025,19-08-2025
+CR-2025-0781,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Engineering & Maintenance,Facilities,Major,0,High,29-08-2025,11-09-2025,18-09-2025
+CR-2025-0782,Update of user access roles and active directory profiles in Laboratory LIMS.,Engineering & Maintenance,IT & Automation Systems,Minor,1,Low,03-03-2025,25-04-2025,08-06-2025
+CR-2025-0783,Implementation of a dual-wavelength spectrophotometric verification assay.,Regulatory Affairs,Analytical Methods,Major,1,High,28-01-2025,16-02-2025,16-03-2025
+CR-2025-0784,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,1,Medium,19-10-2025,27-11-2025,26-12-2025
+CR-2025-0785,Installation of interlocking maglock systems on containment airlocks.,Quality Control,Facilities,Major,1,Medium,11-02-2025,24-03-2025,04-05-2025
+CR-2025-0786,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Minor,1,Low,21-11-2025,04-12-2025,24-12-2025
+CR-2025-0787,Validation of a new rapid microbiological method for water testing loop A.,Engineering & Maintenance,Analytical Methods,Minor,0,High,28-03-2025,13-05-2025,23-05-2025
+CR-2025-0788,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Engineering & Maintenance,Facilities,Minor,0,High,08-03-2025,26-04-2025,14-05-2025
+CR-2025-0789,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Major,0,High,08-08-2025,17-09-2025,04-10-2025
+CR-2025-0790,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Production,Manufacturing Equipment,Major,1,High,13-04-2025,08-06-2025,21-07-2025
+CR-2025-0791,Introduction of automatic titration parameters for stability testing protocols.,Production,Analytical Methods,Major,1,Medium,08-04-2025,19-04-2025,09-05-2025
+CR-2025-0792,Update to material dispensing guidelines across secondary staging areas.,Information Technology,Standard Operating Procedures,Minor,0,Medium,26-04-2025,19-06-2025,05-07-2025
+CR-2025-0793,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,0,Medium,16-07-2025,27-08-2025,10-09-2025
+CR-2025-0794,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Quality Assurance,Manufacturing Equipment,Major,2,Medium,02-06-2025,30-06-2025,18-08-2025
+CR-2025-0795,Replacement of label application vacuum pads on high speed vial labelers.,Information Technology,Packaging Lines,Critical,1,High,26-09-2025,08-12-2025,24-01-2026
+CR-2025-0796,Migration of data archive servers for the electronic batch record system.,Information Technology,IT & Automation Systems,Major,1,High,08-09-2025,10-10-2025,11-11-2025
+CR-2025-0797,Relocation of the incoming raw material inspection staging barrier.,Quality Assurance,Facilities,Major,0,Medium,10-01-2025,03-02-2025,15-02-2025
+CR-2025-0798,Integration of secondary barcode validation architecture into the MES platform.,Information Technology,IT & Automation Systems,Minor,0,High,12-01-2025,28-02-2025,10-03-2025
+CR-2025-0799,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Production,Analytical Methods,Major,0,High,12-07-2025,31-08-2025,13-09-2025
+CR-2025-0800,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,0,Medium,25-01-2025,14-03-2025,20-03-2025
+CR-2025-0801,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Minor,0,High,25-01-2025,20-03-2025,28-03-2025
+CR-2025-0802,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Minor,0,Medium,05-03-2025,19-04-2025,02-05-2025
+CR-2025-0803,Update to material dispensing guidelines across secondary staging areas.,Engineering & Maintenance,Standard Operating Procedures,Minor,2,High,16-04-2025,09-06-2025,08-08-2025
+CR-2025-0804,Implementation of a dual-wavelength spectrophotometric verification assay.,Production,Analytical Methods,Minor,0,Medium,05-12-2025,21-12-2025,03-01-2026
+CR-2025-0805,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Minor,0,High,03-08-2025,19-08-2025,27-08-2025
+CR-2025-0806,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Quality Control,Manufacturing Equipment,Critical,0,High,12-09-2025,06-11-2025,17-11-2025
+CR-2025-0807,Introduction of automatic titration parameters for stability testing protocols.,Supply Chain,Analytical Methods,Minor,0,High,14-04-2025,16-05-2025,03-06-2025
+CR-2025-0808,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Minor,0,Medium,08-10-2025,18-11-2025,29-11-2025
+CR-2025-0809,Installation of online total organic carbon analyzer on the WFI loop pump.,Information Technology,HVAC & Utilities,Minor,1,Low,01-05-2025,11-05-2025,31-05-2025
+CR-2025-0810,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Critical,2,High,21-10-2025,13-02-2026,05-04-2026
+CR-2025-0811,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Assurance,Manufacturing Equipment,Major,3,Medium,08-02-2025,05-04-2025,01-05-2025
+CR-2025-0812,Update to material dispensing guidelines across secondary staging areas.,Quality Control,Standard Operating Procedures,Minor,1,Low,22-08-2025,19-09-2025,25-10-2025
+CR-2025-0813,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,31-03-2025,12-04-2025,26-04-2025
+CR-2025-0814,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Control,Facilities,Minor,0,High,07-08-2025,03-10-2025,11-10-2025
+CR-2025-0815,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Production,Facilities,Major,0,Medium,05-01-2025,23-01-2025,02-02-2025
+CR-2025-0816,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Control,Analytical Methods,Minor,0,High,15-11-2025,12-12-2025,19-12-2025
+CR-2025-0817,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Control,Facilities,Minor,0,High,04-04-2025,21-04-2025,08-05-2025
+CR-2025-0818,Installation of online total organic carbon analyzer on the WFI loop pump.,Engineering & Maintenance,HVAC & Utilities,Critical,1,High,17-07-2025,12-11-2025,01-01-2026
+CR-2025-0819,Modification of airflow return duct patterns in the granulation cleanroom.,Supply Chain,HVAC & Utilities,Major,0,High,27-02-2025,17-03-2025,23-03-2025
+CR-2025-0820,Deployment of software patch v4.2 to the SCADA control network system.,Supply Chain,IT & Automation Systems,Major,0,High,02-08-2025,18-09-2025,08-10-2025
+CR-2025-0821,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Supply Chain,Packaging Lines,Critical,2,Medium,03-04-2025,20-07-2025,02-09-2025
+CR-2025-0822,Introduction of automatic titration parameters for stability testing protocols.,Supply Chain,Analytical Methods,Major,0,Medium,15-01-2025,09-03-2025,18-03-2025
+CR-2025-0823,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Engineering & Maintenance,HVAC & Utilities,Minor,0,High,30-07-2025,06-09-2025,12-09-2025
+CR-2025-0824,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Minor,1,High,07-01-2025,03-03-2025,25-04-2025
+CR-2025-0825,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Critical,1,Medium,17-10-2025,14-12-2025,24-01-2026
+CR-2025-0826,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Major,1,High,18-02-2025,27-03-2025,01-05-2025
+CR-2025-0827,Implementation of a dual-wavelength spectrophotometric verification assay.,Engineering & Maintenance,Analytical Methods,Minor,0,Medium,18-03-2025,02-05-2025,08-05-2025
+CR-2025-0828,Update to material dispensing guidelines across secondary staging areas.,Production,Standard Operating Procedures,Major,1,Low,16-09-2025,26-10-2025,16-12-2025
+CR-2025-0829,Deployment of software patch v4.2 to the SCADA control network system.,Supply Chain,IT & Automation Systems,Minor,1,Low,09-09-2025,09-10-2025,13-11-2025
+CR-2025-0830,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Major,0,High,17-09-2025,11-10-2025,28-10-2025
+CR-2025-0831,Installation of interlocking maglock systems on containment airlocks.,Engineering & Maintenance,Facilities,Minor,0,High,10-02-2025,21-03-2025,09-04-2025
+CR-2025-0832,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Supply Chain,Packaging Lines,Minor,0,High,15-02-2025,28-03-2025,16-04-2025
+CR-2025-0833,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Major,3,Medium,01-12-2025,12-12-2025,07-01-2026
+CR-2025-0834,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Engineering & Maintenance,HVAC & Utilities,Minor,0,Medium,13-10-2025,27-11-2025,02-12-2025
+CR-2025-0835,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Supply Chain,Manufacturing Equipment,Major,1,Low,13-11-2025,02-01-2026,10-02-2026
+CR-2025-0836,Installation of an updated vision system camera for cartoon lot verification.,Regulatory Affairs,Packaging Lines,Minor,0,Medium,02-12-2025,23-01-2026,11-02-2026
+CR-2025-0837,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Major,0,Medium,25-04-2025,03-06-2025,18-06-2025
+CR-2025-0838,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Regulatory Affairs,Facilities,Major,1,High,04-11-2025,14-12-2025,26-01-2026
+CR-2025-0839,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Information Technology,HVAC & Utilities,Major,1,Low,19-02-2025,18-04-2025,22-05-2025
+CR-2025-0840,Re-optimization of gas chromatography parameters for residual solvent analysis.,Production,Analytical Methods,Minor,0,Medium,21-11-2025,19-12-2025,04-01-2026
+CR-2025-0841,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Information Technology,Manufacturing Equipment,Major,0,High,26-03-2025,06-05-2025,15-05-2025
+CR-2025-0842,Comprehensive overhaul of cleaning verification sampling procedure plans.,Supply Chain,Standard Operating Procedures,Minor,0,Medium,24-02-2025,22-03-2025,02-04-2025
+CR-2025-0843,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Assurance,Manufacturing Equipment,Minor,1,Low,21-04-2025,30-05-2025,01-07-2025
+CR-2025-0844,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Information Technology,Analytical Methods,Critical,2,Medium,01-08-2025,05-09-2025,04-11-2025
+CR-2025-0845,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Minor,0,High,05-03-2025,03-05-2025,22-05-2025
+CR-2025-0846,Standardization of analytical instrument calibration intervals and criteria.,Engineering & Maintenance,Standard Operating Procedures,Major,0,Medium,16-09-2025,04-10-2025,24-10-2025
+CR-2025-0847,Modification of blister forming forming-die plate to support 10-count layouts.,Production,Packaging Lines,Major,1,Medium,11-10-2025,17-11-2025,13-01-2026
+CR-2025-0848,Installation of an updated vision system camera for cartoon lot verification.,Engineering & Maintenance,Packaging Lines,Major,1,Medium,21-12-2025,06-02-2026,09-03-2026
+CR-2025-0849,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Minor,0,High,23-02-2025,29-03-2025,13-04-2025
+CR-2025-0850,Upgrade of the secondary compressor system on the purified water chiller.,Regulatory Affairs,HVAC & Utilities,Minor,0,High,08-11-2025,01-01-2026,13-01-2026
+CR-2025-0851,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Control,HVAC & Utilities,Minor,0,High,31-05-2025,08-07-2025,17-07-2025
+CR-2025-0852,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Assurance,HVAC & Utilities,Critical,3,High,25-12-2025,30-03-2026,08-05-2026
+CR-2025-0853,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Minor,0,High,10-06-2025,04-08-2025,15-08-2025
+CR-2025-0854,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,01-01-2026,29-01-2026,14-02-2026
+CR-2025-0855,Integration of secondary barcode validation architecture into the MES platform.,Information Technology,IT & Automation Systems,Minor,0,High,15-09-2025,29-10-2025,13-11-2025
+CR-2025-0856,Installation of an automatic visual inspection system on packaging line 3.,Information Technology,Manufacturing Equipment,Minor,0,High,15-10-2025,24-11-2025,12-12-2025
+CR-2025-0857,Standardization of analytical instrument calibration intervals and criteria.,Information Technology,Standard Operating Procedures,Major,1,Low,27-05-2025,03-07-2025,23-07-2025
+CR-2025-0858,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Regulatory Affairs,Manufacturing Equipment,Critical,1,High,15-07-2025,01-09-2025,24-09-2025
+CR-2025-0859,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Minor,2,Medium,17-05-2025,14-07-2025,13-08-2025
+CR-2025-0860,Harmonization of environment monitoring step protocols across regional sites.,Quality Control,Standard Operating Procedures,Major,1,High,16-03-2025,29-03-2025,06-05-2025
+CR-2025-0861,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Minor,0,Medium,17-01-2025,18-02-2025,09-03-2025
+CR-2025-0862,Replacement of label application vacuum pads on high speed vial labelers.,Production,Packaging Lines,Minor,0,High,25-04-2025,21-06-2025,08-07-2025
+CR-2025-0863,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Assurance,Packaging Lines,Minor,0,Medium,21-12-2025,11-02-2026,17-02-2026
+CR-2025-0864,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Major,1,Medium,17-12-2025,16-01-2026,12-03-2026
+CR-2025-0865,Installation of an automatic visual inspection system on packaging line 3.,Production,Manufacturing Equipment,Major,0,High,14-04-2025,02-06-2025,21-06-2025
+CR-2025-0866,Migration of data archive servers for the electronic batch record system.,Supply Chain,IT & Automation Systems,Major,0,High,29-10-2025,12-12-2025,23-12-2025
+CR-2025-0867,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Minor,0,High,31-05-2025,08-07-2025,18-07-2025
+CR-2025-0868,Modification of product contact parts on the tablet compression machine tooling.,Information Technology,Manufacturing Equipment,Minor,0,Medium,30-03-2025,26-05-2025,03-06-2025
+CR-2025-0869,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Engineering & Maintenance,Manufacturing Equipment,Minor,0,High,23-05-2025,07-07-2025,20-07-2025
+CR-2025-0870,Update of user access roles and active directory profiles in Laboratory LIMS.,Quality Assurance,IT & Automation Systems,Minor,0,Medium,11-05-2025,21-05-2025,05-06-2025
+CR-2025-0871,Update to material dispensing guidelines across secondary staging areas.,Engineering & Maintenance,Standard Operating Procedures,Major,0,High,21-01-2025,09-02-2025,24-02-2025
+CR-2025-0872,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Major,0,High,05-12-2025,03-01-2026,23-01-2026
+CR-2025-0873,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,0,High,03-07-2025,17-07-2025,01-08-2025
+CR-2025-0874,Integration of secondary barcode validation architecture into the MES platform.,Regulatory Affairs,IT & Automation Systems,Minor,1,Medium,24-09-2025,08-10-2025,29-11-2025
+CR-2025-0875,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Assurance,HVAC & Utilities,Minor,1,Low,02-10-2025,06-11-2025,01-12-2025
+CR-2025-0876,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Critical,2,High,06-12-2025,16-02-2026,29-03-2026
+CR-2025-0877,Validation of a new rapid microbiological method for water testing loop A.,Quality Control,Analytical Methods,Minor,0,High,13-11-2025,26-12-2025,15-01-2026
+CR-2025-0878,Application of pharmaceutical-grade epoxy flooring in sampling booth 1.,Regulatory Affairs,Facilities,Major,0,High,28-02-2025,21-04-2025,07-05-2025
+CR-2025-0879,Update of user access roles and active directory profiles in Laboratory LIMS.,Engineering & Maintenance,IT & Automation Systems,Major,3,Medium,15-11-2025,10-12-2025,01-01-2026
+CR-2025-0880,Implementation of a dual-wavelength spectrophotometric verification assay.,Information Technology,Analytical Methods,Major,2,Low,28-02-2025,03-04-2025,09-05-2025
+CR-2025-0881,Harmonization of environment monitoring step protocols across regional sites.,Regulatory Affairs,Standard Operating Procedures,Minor,0,High,13-01-2025,25-02-2025,13-03-2025
+CR-2025-0882,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Regulatory Affairs,Facilities,Major,0,High,17-08-2025,27-09-2025,03-10-2025
+CR-2025-0883,Update to material dispensing guidelines across secondary staging areas.,Quality Control,Standard Operating Procedures,Critical,1,High,14-06-2025,17-09-2025,12-10-2025
+CR-2025-0884,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Minor,0,High,01-10-2025,11-10-2025,18-10-2025
+CR-2025-0885,Update to material dispensing guidelines across secondary staging areas.,Quality Assurance,Standard Operating Procedures,Minor,0,High,17-12-2025,23-01-2026,31-01-2026
+CR-2025-0886,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Quality Assurance,Packaging Lines,Minor,1,Medium,28-11-2025,12-12-2025,10-01-2026
+CR-2025-0887,Installation of online total organic carbon analyzer on the WFI loop pump.,Production,HVAC & Utilities,Minor,0,Medium,20-01-2025,04-02-2025,11-02-2025
+CR-2025-0888,Migration of data archive servers for the electronic batch record system.,Production,IT & Automation Systems,Major,1,High,13-10-2025,27-10-2025,22-12-2025
+CR-2025-0889,Migration of data archive servers for the electronic batch record system.,Supply Chain,IT & Automation Systems,Major,0,High,28-07-2025,31-08-2025,19-09-2025
+CR-2025-0890,Upgrade of the secondary compressor system on the purified water chiller.,Information Technology,HVAC & Utilities,Major,0,Medium,11-06-2025,22-06-2025,09-07-2025
+CR-2025-0891,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Information Technology,Manufacturing Equipment,Major,1,High,04-01-2025,24-02-2025,24-04-2025
+CR-2025-0892,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Production,Facilities,Minor,0,Medium,24-01-2025,19-03-2025,26-03-2025
+CR-2025-0893,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Control,Packaging Lines,Minor,0,High,29-05-2025,28-07-2025,11-08-2025
+CR-2025-0894,Installation of an automatic visual inspection system on packaging line 3.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,13-08-2025,16-09-2025,03-10-2025
+CR-2025-0895,Revision of SOP-QA-045 to implement stricter line clearance validations.,Supply Chain,Standard Operating Procedures,Minor,0,High,31-08-2025,20-09-2025,02-10-2025
+CR-2025-0896,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Minor,0,High,07-10-2025,04-11-2025,13-11-2025
+CR-2025-0897,Harmonization of environment monitoring step protocols across regional sites.,Quality Control,Standard Operating Procedures,Minor,0,High,06-01-2025,20-02-2025,01-03-2025
+CR-2025-0898,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Production,Manufacturing Equipment,Major,0,High,21-10-2025,08-12-2025,25-12-2025
+CR-2025-0899,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Critical,2,High,06-06-2025,01-08-2025,12-09-2025
+CR-2025-0900,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Assurance,HVAC & Utilities,Minor,0,Medium,14-03-2025,03-04-2025,13-04-2025
+CR-2025-0901,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Assurance,Packaging Lines,Minor,1,Low,10-04-2025,27-04-2025,28-05-2025
+CR-2025-0902,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Information Technology,Facilities,Minor,0,Medium,28-01-2025,27-03-2025,15-04-2025
+CR-2025-0903,Modification of blister forming forming-die plate to support 10-count layouts.,Information Technology,Packaging Lines,Minor,0,High,29-05-2025,20-07-2025,27-07-2025
+CR-2025-0904,Modification of product contact parts on the tablet compression machine tooling.,Quality Control,Manufacturing Equipment,Minor,0,Medium,25-10-2025,05-12-2025,20-12-2025
+CR-2025-0905,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Minor,0,High,21-02-2025,21-03-2025,28-03-2025
+CR-2025-0906,Implementation of a dual-wavelength spectrophotometric verification assay.,Quality Assurance,Analytical Methods,Minor,2,Medium,19-08-2025,19-09-2025,17-11-2025
+CR-2025-0907,Introduction of automatic titration parameters for stability testing protocols.,Information Technology,Analytical Methods,Major,2,High,20-03-2025,05-05-2025,30-06-2025
+CR-2025-0908,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Control,Facilities,Major,0,Medium,08-08-2025,28-08-2025,02-09-2025
+CR-2025-0909,Integration of secondary barcode validation architecture into the MES platform.,Quality Control,IT & Automation Systems,Minor,0,High,31-12-2025,26-02-2026,16-03-2026
+CR-2025-0910,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Control,Facilities,Minor,0,High,10-03-2025,02-05-2025,17-05-2025
+CR-2025-0911,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Major,0,High,03-07-2025,31-08-2025,14-09-2025
+CR-2025-0912,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Critical,3,Low,31-03-2025,21-07-2025,17-09-2025
+CR-2025-0913,Refurbishment of wall panels and ceiling joints within wash bay area.,Production,Facilities,Critical,3,High,13-03-2025,19-06-2025,21-07-2025
+CR-2025-0914,Revision of SOP-QA-045 to implement stricter line clearance validations.,Quality Control,Standard Operating Procedures,Minor,0,High,08-02-2025,19-02-2025,24-02-2025
+CR-2025-0915,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,0,High,27-07-2025,24-09-2025,05-10-2025
+CR-2025-0916,Upgrade of serialization printers on bottle capping line 2 setup.,Production,Packaging Lines,Major,0,High,06-10-2025,19-11-2025,09-12-2025
+CR-2025-0917,Installation of interlocking maglock systems on containment airlocks.,Information Technology,Facilities,Major,0,Medium,07-07-2025,11-08-2025,23-08-2025
+CR-2025-0918,Upgrade of serialization printers on bottle capping line 2 setup.,Supply Chain,Packaging Lines,Major,0,High,10-03-2025,18-04-2025,25-04-2025
+CR-2025-0919,Introduction of automatic titration parameters for stability testing protocols.,Engineering & Maintenance,Analytical Methods,Critical,1,High,06-01-2025,30-04-2025,04-06-2025
+CR-2025-0920,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Major,0,Medium,17-12-2025,06-01-2026,15-01-2026
+CR-2025-0921,Integration of secondary barcode validation architecture into the MES platform.,Engineering & Maintenance,IT & Automation Systems,Minor,0,High,17-10-2025,02-12-2025,11-12-2025
+CR-2025-0922,Comprehensive overhaul of cleaning verification sampling procedure plans.,Information Technology,Standard Operating Procedures,Minor,1,High,03-07-2025,15-07-2025,18-08-2025
+CR-2025-0923,Modification of airflow return duct patterns in the granulation cleanroom.,Supply Chain,HVAC & Utilities,Minor,0,High,02-02-2025,28-02-2025,16-03-2025
+CR-2025-0924,Modification of product contact parts on the tablet compression machine tooling.,Quality Assurance,Manufacturing Equipment,Major,0,High,23-09-2025,22-11-2025,08-12-2025
+CR-2025-0925,Upgrade of the secondary compressor system on the purified water chiller.,Engineering & Maintenance,HVAC & Utilities,Major,1,High,24-01-2025,05-02-2025,17-03-2025
+CR-2025-0926,Standardization of analytical instrument calibration intervals and criteria.,Production,Standard Operating Procedures,Minor,0,High,21-11-2025,18-12-2025,31-12-2025
+CR-2025-0927,Replacement of label application vacuum pads on high speed vial labelers.,Regulatory Affairs,Packaging Lines,Minor,0,High,31-03-2025,04-05-2025,21-05-2025
+CR-2025-0928,Modification of blister forming forming-die plate to support 10-count layouts.,Quality Control,Packaging Lines,Major,2,Low,22-09-2025,18-10-2025,01-12-2025
+CR-2025-0929,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Quality Assurance,Packaging Lines,Major,3,High,30-06-2025,01-08-2025,21-09-2025
+CR-2025-0930,Rebalancing of differential pressures across cleanroom corridors zone B.,Supply Chain,HVAC & Utilities,Minor,3,Low,04-01-2025,15-02-2025,15-03-2025
+CR-2025-0931,Integration of secondary barcode validation architecture into the MES platform.,Engineering & Maintenance,IT & Automation Systems,Major,1,Low,09-02-2025,23-03-2025,29-04-2025
+CR-2025-0932,Integration of secondary barcode validation architecture into the MES platform.,Quality Assurance,IT & Automation Systems,Minor,0,High,22-03-2025,24-04-2025,02-05-2025
+CR-2025-0933,Configuration of access control parameters on the enterprise PLC networks.,Information Technology,IT & Automation Systems,Minor,2,Medium,19-06-2025,14-08-2025,10-09-2025
+CR-2025-0934,Comprehensive overhaul of cleaning verification sampling procedure plans.,Engineering & Maintenance,Standard Operating Procedures,Minor,1,Medium,03-09-2025,26-09-2025,22-11-2025
+CR-2025-0935,Comprehensive overhaul of cleaning verification sampling procedure plans.,Quality Assurance,Standard Operating Procedures,Critical,2,Low,12-01-2025,14-03-2025,05-04-2025
+CR-2025-0936,Replacement of label application vacuum pads on high speed vial labelers.,Quality Assurance,Packaging Lines,Critical,0,Medium,24-03-2025,10-05-2025,16-05-2025
+CR-2025-0937,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Minor,0,Medium,27-03-2025,22-04-2025,02-05-2025
+CR-2025-0938,Rebalancing of differential pressures across cleanroom corridors zone B.,Regulatory Affairs,HVAC & Utilities,Major,0,Medium,16-10-2025,05-12-2025,10-12-2025
+CR-2025-0939,Harmonization of environment monitoring step protocols across regional sites.,Information Technology,Standard Operating Procedures,Major,0,Medium,13-02-2025,08-03-2025,27-03-2025
+CR-2025-0940,Upgrade of the secondary compressor system on the purified water chiller.,Regulatory Affairs,HVAC & Utilities,Minor,0,High,29-03-2025,22-04-2025,10-05-2025
+CR-2025-0941,Update of user access roles and active directory profiles in Laboratory LIMS.,Regulatory Affairs,IT & Automation Systems,Critical,2,High,04-04-2025,22-07-2025,12-09-2025
+CR-2025-0942,Migration of data archive servers for the electronic batch record system.,Quality Control,IT & Automation Systems,Minor,0,High,21-08-2025,08-10-2025,15-10-2025
+CR-2025-0943,Upgrade of the secondary compressor system on the purified water chiller.,Quality Assurance,HVAC & Utilities,Major,0,High,09-03-2025,25-03-2025,30-03-2025
+CR-2025-0944,Replacement of label application vacuum pads on high speed vial labelers.,Quality Assurance,Packaging Lines,Minor,0,High,17-12-2025,22-01-2026,31-01-2026
+CR-2025-0945,Modification of product contact parts on the tablet compression machine tooling.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,01-09-2025,20-10-2025,26-10-2025
+CR-2025-0946,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Critical,1,Low,02-03-2025,12-04-2025,01-06-2025
+CR-2025-0947,Update of user access roles and active directory profiles in Laboratory LIMS.,Information Technology,IT & Automation Systems,Major,0,High,04-10-2025,14-10-2025,01-11-2025
+CR-2025-0948,Installation of online total organic carbon analyzer on the WFI loop pump.,Regulatory Affairs,HVAC & Utilities,Major,3,Low,23-01-2025,18-03-2025,10-05-2025
+CR-2025-0949,Configuration of access control parameters on the enterprise PLC networks.,Engineering & Maintenance,IT & Automation Systems,Major,1,High,15-07-2025,16-08-2025,12-10-2025
+CR-2025-0950,Standardization of analytical instrument calibration intervals and criteria.,Supply Chain,Standard Operating Procedures,Minor,0,High,20-02-2025,29-03-2025,07-04-2025
+CR-2025-0951,Modification of airflow return duct patterns in the granulation cleanroom.,Quality Control,HVAC & Utilities,Major,0,High,12-02-2025,12-03-2025,30-03-2025
+CR-2025-0952,Deployment of software patch v4.2 to the SCADA control network system.,Quality Control,IT & Automation Systems,Critical,1,High,30-12-2025,29-01-2026,26-03-2026
+CR-2025-0953,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Minor,0,High,04-01-2025,07-02-2025,18-02-2025
+CR-2025-0954,Refurbishment of wall panels and ceiling joints within wash bay area.,Information Technology,Facilities,Minor,0,Medium,29-07-2025,31-08-2025,08-09-2025
+CR-2025-0955,Rebalancing of differential pressures across cleanroom corridors zone B.,Quality Assurance,HVAC & Utilities,Critical,1,High,10-05-2025,12-07-2025,04-09-2025
+CR-2025-0956,Upgrade of serialization printers on bottle capping line 2 setup.,Engineering & Maintenance,Packaging Lines,Major,1,High,10-11-2025,07-12-2025,21-01-2026
+CR-2025-0957,Configuration of access control parameters on the enterprise PLC networks.,Supply Chain,IT & Automation Systems,Minor,1,High,10-10-2025,09-12-2025,02-02-2026
+CR-2025-0958,Migration of data archive servers for the electronic batch record system.,Engineering & Maintenance,IT & Automation Systems,Critical,1,Medium,14-10-2025,23-01-2026,14-03-2026
+CR-2025-0959,Introduction of automatic titration parameters for stability testing protocols.,Quality Control,Analytical Methods,Major,0,High,26-06-2025,24-08-2025,10-09-2025
+CR-2025-0960,Deployment of software patch v4.2 to the SCADA control network system.,Information Technology,IT & Automation Systems,Minor,0,High,28-04-2025,05-06-2025,15-06-2025
+CR-2025-0961,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Minor,0,Medium,25-07-2025,23-09-2025,08-10-2025
+CR-2025-0962,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,1,High,23-12-2025,14-02-2026,09-03-2026
+CR-2025-0963,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Quality Assurance,HVAC & Utilities,Minor,0,High,16-02-2025,07-03-2025,27-03-2025
+CR-2025-0964,Replacement of terminal HEPA filters in Grade A aseptic filling suite.,Regulatory Affairs,HVAC & Utilities,Major,1,High,02-02-2025,28-02-2025,03-04-2025
+CR-2025-0965,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Quality Control,Manufacturing Equipment,Major,0,Medium,20-01-2025,17-03-2025,03-04-2025
+CR-2025-0966,Replacement of label application vacuum pads on high speed vial labelers.,Engineering & Maintenance,Packaging Lines,Major,0,High,27-05-2025,21-07-2025,27-07-2025
+CR-2025-0967,Installation of interlocking maglock systems on containment airlocks.,Supply Chain,Facilities,Minor,0,High,24-11-2025,04-01-2026,23-01-2026
+CR-2025-0968,Update of user access roles and active directory profiles in Laboratory LIMS.,Production,IT & Automation Systems,Major,0,High,27-05-2025,18-06-2025,24-06-2025
+CR-2025-0969,Replacement of label application vacuum pads on high speed vial labelers.,Supply Chain,Packaging Lines,Minor,2,High,22-09-2025,15-11-2025,19-12-2025
+CR-2025-0970,Deployment of software patch v4.2 to the SCADA control network system.,Regulatory Affairs,IT & Automation Systems,Minor,0,High,04-07-2025,29-07-2025,03-08-2025
+CR-2025-0971,Installation of an automatic visual inspection system on packaging line 3.,Quality Assurance,Manufacturing Equipment,Minor,0,High,24-07-2025,25-08-2025,11-09-2025
+CR-2025-0972,Installation of an updated vision system camera for cartoon lot verification.,Engineering & Maintenance,Packaging Lines,Critical,2,High,23-09-2025,24-10-2025,17-11-2025
+CR-2025-0973,Upgrade of serialization printers on bottle capping line 2 setup.,Production,Packaging Lines,Major,0,Medium,14-10-2025,30-11-2025,16-12-2025
+CR-2025-0974,Refurbishment of wall panels and ceiling joints within wash bay area.,Quality Control,Facilities,Minor,0,High,26-04-2025,13-06-2025,24-06-2025
+CR-2025-0975,Rebalancing of differential pressures across cleanroom corridors zone B.,Engineering & Maintenance,HVAC & Utilities,Major,0,High,03-01-2025,29-01-2025,08-02-2025
+CR-2025-0976,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Critical,3,Medium,14-10-2025,22-11-2025,13-01-2026
+CR-2025-0977,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Quality Control,Analytical Methods,Major,1,High,20-09-2025,16-10-2025,09-12-2025
+CR-2025-0978,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Supply Chain,Facilities,Major,1,High,09-05-2025,02-07-2025,19-08-2025
+CR-2025-0979,Adjusting conveyor sensor gates to avoid bottleneck jams on carton lines.,Engineering & Maintenance,Packaging Lines,Major,1,High,05-05-2025,02-07-2025,12-08-2025
+CR-2025-0980,Upgrade of the secondary compressor system on the purified water chiller.,Supply Chain,HVAC & Utilities,Major,1,Low,28-10-2025,08-11-2025,28-12-2025
+CR-2025-0981,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Production,Analytical Methods,Minor,0,Medium,15-07-2025,03-09-2025,15-09-2025
+CR-2025-0982,Update to material dispensing guidelines across secondary staging areas.,Information Technology,Standard Operating Procedures,Major,0,Medium,11-06-2025,17-07-2025,02-08-2025
+CR-2025-0983,Modification of blister forming forming-die plate to support 10-count layouts.,Regulatory Affairs,Packaging Lines,Minor,0,High,25-12-2025,20-01-2026,01-02-2026
+CR-2025-0984,Replacement of the stainless steel transfer pipeline in compounding vessel 2.,Quality Control,Manufacturing Equipment,Critical,2,Medium,11-12-2025,22-02-2026,18-03-2026
+CR-2025-0985,Configuration of access control parameters on the enterprise PLC networks.,Regulatory Affairs,IT & Automation Systems,Major,2,High,10-06-2025,12-07-2025,14-08-2025
+CR-2025-0986,Validation of a new rapid microbiological method for water testing loop A.,Regulatory Affairs,Analytical Methods,Major,2,Medium,16-12-2025,07-01-2026,27-02-2026
+CR-2025-0987,Integration of secondary barcode validation architecture into the MES platform.,Information Technology,IT & Automation Systems,Minor,0,Medium,04-05-2025,30-05-2025,10-06-2025
+CR-2025-0988,Integration of secondary barcode validation architecture into the MES platform.,Quality Assurance,IT & Automation Systems,Minor,2,High,13-11-2025,15-12-2025,13-01-2026
+CR-2025-0989,Upgrade of mechanical seals on fluid bed dryer to prevent product leakage.,Supply Chain,Manufacturing Equipment,Major,1,Medium,10-02-2025,04-04-2025,25-05-2025
+CR-2025-0990,Installation of vibration monitoring sensors on the high shear mixer drive shaft.,Regulatory Affairs,Manufacturing Equipment,Major,1,Low,22-01-2025,03-03-2025,15-04-2025
+CR-2025-0991,Implementation of a dual-wavelength spectrophotometric verification assay.,Regulatory Affairs,Analytical Methods,Minor,0,High,22-10-2025,18-11-2025,08-12-2025
+CR-2025-0992,Upgrade of overhead LED cleanroom lighting fixtures in line 4 suite.,Quality Assurance,Facilities,Major,0,High,24-05-2025,28-06-2025,10-07-2025
+CR-2025-0993,Installation of an updated vision system camera for cartoon lot verification.,Supply Chain,Packaging Lines,Major,1,High,28-01-2025,12-03-2025,28-04-2025
+CR-2025-0994,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Critical,1,High,15-09-2025,28-11-2025,12-01-2026
+CR-2025-0995,Update to material dispensing guidelines across secondary staging areas.,Supply Chain,Standard Operating Procedures,Major,1,Medium,23-08-2025,09-09-2025,01-11-2025
+CR-2025-0996,Transfer of HPLC assay methodology from central R&D to site QC laboratory.,Engineering & Maintenance,Analytical Methods,Critical,1,High,07-01-2025,03-05-2025,05-06-2025
+CR-2025-0997,Modification of blister forming forming-die plate to support 10-count layouts.,Engineering & Maintenance,Packaging Lines,Major,0,Medium,16-06-2025,19-07-2025,01-08-2025
+CR-2025-0998,Upgrade of serialization printers on bottle capping line 2 setup.,Quality Assurance,Packaging Lines,Major,0,High,02-05-2025,29-05-2025,18-06-2025
+CR-2025-0999,Re-optimization of gas chromatography parameters for residual solvent analysis.,Regulatory Affairs,Analytical Methods,Minor,0,Medium,05-04-2025,16-05-2025,03-06-2025
+CR-2025-1000,Installation of online total organic carbon analyzer on the WFI loop pump.,Quality Assurance,HVAC & Utilities,Minor,1,High,06-07-2025,10-08-2025,16-09-2025
